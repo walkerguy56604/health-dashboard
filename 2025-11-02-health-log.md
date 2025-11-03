@@ -152,3 +152,58 @@ Breakfast 🍳🍞 | 1:00 PM 🏃‍♂️ 5min walk | Lunch 🍔
 Dinner 🥧 | Soup 🍲 | 5:05 PM 🏃‍♂️ 35min walk | 7:00 PM 🏃‍♂️ 4min walk
 7:28 PM 🏃‍♂️ 5min walk | 7:30 PM 🏃‍♂️ 5min walk | 8:00 PM 🏃‍♂️ 5min walk (part 2)
 Snack 🍪 | Snack 🍦 | Coffee ☕
+# Mark's Health Dashboard — November 2, 2025
+
+## Daily Summary
+
+### Activity
+| Time        | Activity                  | Duration / Notes                 | Steps (approx) | Heart / Symptoms |
+|------------|---------------------------|---------------------------------|----------------|-----------------|
+| 6:55 AM    | Inside walk (Siri suggested) | 5 min                          | ~400           | Mild HR ↑, mild SOB, dizziness |
+| 8:00 AM    | Strength Training          | 10–15 min                        | —              | —               |
+| 8:10 AM    | Inside walk                | 10 min                           | ~1,400         | Mild SOB        |
+| 1:00 PM    | Outside walk               | 5 min                            | ~2,200         | Mild HR ↑, dizziness, SOB |
+| 2:00 PM    | Outside walk               | 30 min                           | ~3,500         | Mild SOB        |
+| 4:00 PM    | Inside walk                | 5 min                            | ~400           | —               |
+| 4:10 PM    | Strength Training          | 10–15 min                        | —              | —               |
+| 5:05 PM    | Outside walk               | 35 min                           | ~4,000         | Mild SOB        |
+| 7:00 PM    | Inside walk                | 4 min                            | ~350           | —               |
+| 7:12 PM    | Inside walk                | 5 min                            | ~400           | —               |
+| 7:28 PM    | Inside walk                | 5 min                            | ~400           | —               |
+| 7:30 PM    | Inside walk                | 5 min                            | ~1,500         | —               |
+| 8:00 PM    | Inside walk                | 5 min (part 2)                   | ~400           | —               |
+| 8:30 PM    | Inside walk                | 5 min                             | ~400           | —               |
+| 9:00 PM    | Inside walk                | 5 min                             | ~400           | —               |
+
+---
+
+### Meals & Snacks
+| Meal       | Item                               | Quantity / Notes                      | Calories | Protein | Carbs | Fat | Saturated | Trans | Cholesterol | Sodium |
+|------------|-----------------------------------|--------------------------------------|---------|---------|-------|-----|-----------|-------|------------|--------|
+| Breakfast  | Eggs & Sprouted Grain Bread       | 2 eggs scrambled, 2 slices bread     | ~360    | 16 g    | 36 g  | 20 g| 8 g       | 0     | 40 mg      | 250 mg |
+| Lunch      | Wendy’s Hamburger                 | 1 sandwich                            | ~250    | 12 g    | 33 g  | 11 g| 3 g       | 0     | 35 mg      | 500 mg |
+| Dinner     | Swanson Turkey Pot Pie            | 200 g                                  | 350     | 9 g     | 35 g  | 20 g| 8 g       | 0     | 40 mg      | 740 mg |
+| Dinner     | Campbell’s Italian Wedding Soup  | ½ cup (split with wife)               | 110     | 7 g     | 11 g  | 3 g | 1 g       | 0     | 10 mg      | 780 mg |
+| Snacks     | Chips Ahoy Chocolate Chip Cookies | 3 cookies                              | 160     | 7 g     | 23 g  | 7 g | 3.5 g     | 0     | 5 mg       | 100 mg |
+| Snacks     | Frozen Yogurt — Maple Walnut      | ¾ cup                                   | 180     | 4 g     | 27 g  | 7 g | 2 g       | 0.1   | 10 mg      | 60 mg |
+| Snacks     | Popcorn w/ butter                 | ½ cup kernels (≈8 cups popped), small butter | 288 | 9 g | 35 g | 14 g | 8 g | 0 | — | 120 mg |
+| Drinks     | Coffee                             | Black                                   | 0       | 0       | 0     | 0   | 0         | 0     | 0          | 0       |
+
+---
+
+### Blood Pressure
+| Date       | BP (Systolic/Diastolic/HR) | Hypertension Notes |
+|------------|----------------------------|------------------|
+| Nov 2      | 131/65/85                  | Medium           |
+
+---
+
+### Mini Bar Chart — Emoji Version
+---
+
+### Emoji Timeline
+---
+
+✅ **All done, Mark!** You can copy this directly into your **Health Dashboard** repo in GitHub.  
+
+If you want, I can also **add a “cumulative daily steps” total at the top** to give a quick glance of all steps for today. Do you want me to do that?
