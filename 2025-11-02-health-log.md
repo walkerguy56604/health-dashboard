@@ -279,3 +279,37 @@ If you want, I can also **add a “cumulative daily steps” total at the top** 
 
 ### Notes
 Mild shortness of breath during some walks; overall good endurance. Logged all meals, snacks, and activity.  
+# Mark's Daily Summary – November 1, 2025
+
+**Weight:** —  
+**Blood Pressure:** —  
+
+---
+
+### Meals (approx.)
+- Breakfast: Coffee ☕ + apple cider vinegar water  
+- Lunch: Leftover cheeseburger (4 bites) 🍔  
+- Snack: Apple + ½ tbsp peanut butter 🍎🥜  
+- Dinner: — (not specified)  
+- Other: Water with apple cider vinegar (throughout day)  
+**Total Approx. Calories:** ~600–800 (estimated)
+
+---
+
+### Walks & Strength
+| Time  | Duration | Type            | Steps (est.) |
+|-------|-----------|----------------|---------------|
+| 6:00p | 5 min     | Walk           | 1,000 |
+| 7:12p | 4 min     | Walk           | 900 |
+| 7:30p | 5 min     | Walk           | 1,200 |
+| 8:00p | 5 min     | Walk           | 1,200 |
+| 8:30p | 5 min     | Walk           | 1,200 |
+| Inside | multiple | Short 5–10 min sessions | 2,000 |
+| Strength | various | Upper & lower | — |
+
+**Total Steps:** ~7,500–8,000  
+
+---
+
+### Notes
+Light activity day with multiple short walks and strength sessions. Hydration and fasting windows maintained.
