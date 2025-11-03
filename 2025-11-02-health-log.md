@@ -207,3 +207,36 @@ Snack 🍪 | Snack 🍦 | Coffee ☕
 ✅ **All done, Mark!** You can copy this directly into your **Health Dashboard** repo in GitHub.  
 
 If you want, I can also **add a “cumulative daily steps” total at the top** to give a quick glance of all steps for today. Do you want me to do that?
+# Mark's Daily Health Log – November 2, 2025
+
+**Weight:** 1.50 lbs  
+**Blood Pressure:** 131/65/85 (m hypertension)
+
+## Meals & Snacks
+- **Breakfast:** – [not specified]  
+- **Lunch:** Cheeseburger leftovers (estimated)  
+- **Snack:** Chips Ahoy caramel cookies, 3 cookies – 160 cal, Fat 7g, Sat 3.5g, Trans 0g, Carbs 23g, Protein 7g, Cholesterol 5mg, Sodium 100mg  
+- **Dinner:** Swanson Turkey Pot Pie (200g) – 350 cal, Protein 9g, Sodium 740mg, Carbs 35g, Fat 20g, Sat 8g, Trans 0g, Cholesterol 40mg  
+- **Soup:** Campbell's Italian Wedding Soup (½ cup) – 110 cal, Fat 3g, Sat 1g, Trans 0g, Protein 7g, Cholesterol 10mg, Sodium 780mg  
+- **Dessert:** Maple Walnut Frozen Yogurt (¾ cup) – 180 cal, Fat 7g, Sat 2g, Trans 0.1g, Carbs 27g, Fiber 1g, Sugar 14g, Protein 4g, Cholesterol 10mg, Sodium 60mg  
+- **Other:** Coffee (black), Popcorn (½ cup kernels + ~¼ brick butter)
+
+## Exercise
+- 2:35 pm – Walk, 30 min, ~3,000 steps, mild shortness of breath, slight dizziness  
+- 4:00 pm – Strength training, 5 min  
+- 4:00 pm – Walk inside, 5 min  
+- 5:05 pm – Walk outside, ~35 min  
+- Locker run – ~150 steps  
+- 7:12 pm – Walk inside, 4 min  
+- 7:30 pm – Walk inside, 5 min (~1,500 steps)  
+- 8:00 pm – Walk & strength combined, 10 min, ~1,500 steps  
+- 8:30 pm – Walk inside, 5 min  
+- 9:00 pm – Walk inside, 5 min  
+- 9:25 pm – Walk inside, 5 min  
+- 10:00 pm – Walk, 10 min
+
+**Total Steps (estimated):** 15,900
+
+## Notes
+- Mild shortness of breath and dizziness during some walks.  
+- Small activity bursts (~100–150 steps) included during daily tasks.
