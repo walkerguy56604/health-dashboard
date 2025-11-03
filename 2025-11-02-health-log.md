@@ -240,3 +240,42 @@ If you want, I can also **add a “cumulative daily steps” total at the top** 
 ## Notes
 - Mild shortness of breath and dizziness during some walks.  
 - Small activity bursts (~100–150 steps) included during daily tasks.
+
+# Mark's Daily Summary – November 2, 2025
+
+**Weight:** 1.50 lbs  
+**Blood Pressure:** 131/65/85  
+
+---
+
+### Meals (approx.)
+- Lunch: Cheeseburger leftovers  
+- Snack: 3 Chips Ahoy Caramel Cookies – 160 cal  
+- Dinner: Turkey Pot Pie – 350 cal  
+- Soup: Italian Wedding – 110 cal  
+- Dessert: Maple Walnut Frozen Yogurt – 180 cal  
+- Popcorn (½ cup kernels + butter) – ~450 cal  
+**Total Approx. Calories:** ~1,250–1,400
+
+---
+
+### Walks & Strength
+| Time  | Duration | Type            | Steps (est.) |
+|-------|-----------|----------------|---------------|
+| 2:35p | 30 min    | Walk           | 3,000 |
+| 4:00p | 5 min     | Strength + Walk| — |
+| 5:05p | 35 min    | Walk           | 3,000 |
+| 7:12p | 4 min     | Walk           | 1,000 |
+| 7:30p | 5 min     | Walk           | 1,500 |
+| 8:00p | 10 min    | Walk + Strength| 1,500 |
+| 8:30p | 5 min     | Walk           | 1,000 |
+| 9:00p | 5 min     | Walk           | 1,000 |
+| 9:25p | 5 min     | Walk           | 1,000 |
+| 10:00p| 10 min    | Walk           | 1,500 |
+
+**Total Steps:** ~15,900  
+
+---
+
+### Notes
+Mild shortness of breath during some walks; overall good endurance. Logged all meals, snacks, and activity.  
