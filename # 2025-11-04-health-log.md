@@ -2,8 +2,8 @@
 
 ## Morning
 **Walks:**
-- 5-minute walk at 5:55 AM (~estimated steps)
-- 5-minute walk at 7:50 AM (~estimated steps)
+- 5-minute walk at 5:55 AM (~450 steps)
+- 5-minute walk at 7:50 AM (~450 steps)
 
 **Strength Training:**
 - Lateral raises: 3 rounds x 10 reps
@@ -33,7 +33,8 @@
 - Notes: ___
 
 ## Evening Placeholder
-- Walk: ___ minutes / ___ steps
+- Walk: 10-minute walk (~900 steps) [planned]
+- Walk: 5-minute walk (~450 steps) [planned]
 - Dinner: ___
 - Strength Training / Activity: ___
 - Notes: ___
