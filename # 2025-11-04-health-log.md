@@ -1,3 +1,18 @@
+---
+date: 2025-11-04
+day_of_week: Tuesday
+category: Daily Health Log
+tags:
+  - blood pressure
+  - exercise
+  - nutrition
+  - fasting
+  - wellness
+status: in-progress
+summary: >
+  Morning walks, strength training, and black coffee start the day.
+  Ongoing updates for blood pressure, meals, and evening reflection will follow.
+---
 # 2025-11-04-health-log.md
 
 ## Exercise
