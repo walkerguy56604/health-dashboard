@@ -1,60 +1,80 @@
-# Health Log – November 3, 2025
+# Daily Health Log – 2025-11-03
 
-## Blood Pressure & Glucose
-- **Reading 1:** 116/61/75 L hypertension  
-- **Reading 2:** 120/62/76 L hypertension  
-- **Glucose:** 5.5 mmol/L  
+## Morning
+- **Wake-up time:** 
+- **Mood/Energy:** 
+- **Notes:** 
 
-## Morning Walk
-- **Time:** 4:55–5:00 AM (Siri-suggested)  
-- **Duration:** 5 minutes  
-- **Steps:** Approx. 1,800  
-- **Notes:** Early morning walk, light activity  
+### Breakfast
+- Item 1: 
+- Item 2: 
+- Drink: 
+- Calories / Macros (approx):
 
-## Breakfast
-- **Bagels:** 2 (210 g each)  
-  - Fat: 3 g | Saturated: 1 g | Carbs: 86 g | Fiber: 10 g | Sugar: 2 g | Protein: 16 g | Sodium: 920 mg | Cholesterol: 0  
-- **Butter:** ~2 tbsp  
-- **Water:** with apple cider vinegar  
-- **Popcorn:** small handful, lightly buttered  
+### Morning Walk
+- Start / End time:
+- Duration:
+- Steps:
+- Notes:
 
-## Mid-Morning Walk
-- **Duration:** 30 minutes  
-- **Steps:** Estimated ~2,500  
-- **Notes:** Some dizziness/eye pulsing due to vertigo, left ear loud/high-pitched noise  
+### Strength Training (AM)
+- Focus Muscles: 
+- Duration / Sets / Reps:
+- Notes:
 
-## Coffee
-- **1 tbsp hazelnut creamer**  
-  - Calories: 25 | Fat: 1 g | Saturated: 0.1 g | Carbs: 3 g | Sugar: 3 g | Protein: 0 g | Sodium: 20 mg | Cholesterol: 0 mg  
+## Midday
+### Lunch
+- Item 1: 
+- Item 2: 
+- Drink: 
+- Calories / Macros (approx):
 
-## Lunch
-- **KFC Burger, Fries & Drink:** 1,000–1,300 calories  
-- **Notes:** Several small walks while waiting for bus (~45 minutes)  
+### Midday Walk
+- Start / End time:
+- Duration:
+- Steps:
+- Notes:
 
-## Strength Training
-- **Noon session:** Lateral & Biceps  
-- **4 PM session:** Lateral & Biceps  
+### Strength Training (PM)
+- Focus Muscles: 
+- Duration / Sets / Reps:
+- Notes:
 
-## Afternoon Snack
-- **Ice Cream:** ¾ cup (3 scoops)  
-- **Mr. Noodles (full pouch):** 64 g  
-  - Calories: 280 | Fat: 10 g | Saturated: 5 g | Carbs: 40 g | Fiber: 2 g | Sugar: 3 g | Protein: 8 g | Sodium: 1,000 mg | Cholesterol: 0  
+## Evening
+### Dinner
+- Item 1: 
+- Item 2: 
+- Drink: 
+- Calories / Macros (approx):
 
-## Dinner
-- **Chicken Lasagna (¼ tray):**  
-  - Calories: 390 | Fat: 15 g | Saturated: 8 g | Trans: 0.4 g | Carbs: 37 g | Fiber: 2 g | Sugar: 4 g | Protein: 27 g | Sodium: 700 mg | Cholesterol: 70 mg  
+### Evening Walk
+- Start / End time:
+- Duration:
+- Steps:
+- Notes:
 
-## Evening Walks
-- **8 PM:** 10-minute walk (~1,000–1,200 steps estimated)  
-- **8:40 PM:** 5-minute walk (~500–600 steps estimated)  
+### Late Evening Snack
+- Item: 
+- Calories / Macros (approx):
 
-## Fasting
-- **Window:** 8:00 AM – 8:00 PM  
-- **Notes:** Flexible approach, sometimes including coffee, tea, or water with apple cider vinegar  
+## Blood Pressure & Glucose – Last 7 Days
 
-## Notes
-- Vertigo, left ear loud noise, mild dizziness during morning walk  
-- Overall energy: steady and strong throughout the day  
-- Paperwork for CHD Virtual Heart Camp completed (volunteer details submitted)  
+| Date       | Reading # | Systolic | Diastolic | HR  | Hypertension Level | Glucose | Notes        |
+|------------|-----------|----------|-----------|-----|------------------|---------|--------------|
+| 2025-10-22 | 1         | 108      | 63        | 77  | L                | —       | —            |
+| 2025-10-24 | 1         | 131      | 47        | 75  | —                | —       | —            |
+| 2025-10-24 | 2         | 128      | 66        | 70  | —                | —       | —            |
+| 2025-10-26 | 1         | 133      | 71        | 82  | —                | —       | —            |
+| 2025-10-27 | 1         | 127      | 66        | 79  | —                | —       | —            |
+| 2025-10-27 | 2         | 131      | 70        | 86  | —                | 7.4     | —            |
+| 2025-10-29 | 1         | 102      | 62        | 75  | —                | —       | IHB detected |
+| 2025-10-31 | 1         | 129      | 73        | 77  | L                | —       | —            |
+| 2025-10-31 | 2         | 128      | 70        | 76  | L                | —       | —            |
+| 2025-11-02 | 1         | 131      | 65        | 85  | M                | —       | —            |
+| 2025-11-03 | 1         | 116      | 61        | 75  | L                | 5.5     | —            |
+| 2025-11-03 | 2         | 120      | 62        | 76  | L                | 5.5     | —            |
 
----
+## Notes / Observations
+- 
+- 
+- 
