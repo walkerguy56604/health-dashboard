@@ -1,68 +1,60 @@
-# 🗓 Daily Health Log – 2025-11-03
+# Health Log – November 3, 2025
 
-## 💓 Blood Pressure & Glucose
-- **BP 1:** 116/61/75 L hypertension  
-- **BP 2:** 120/62/76 L hypertension  
+## Blood Pressure & Glucose
+- **Reading 1:** 116/61/75 L hypertension  
+- **Reading 2:** 120/62/76 L hypertension  
 - **Glucose:** 5.5 mmol/L  
 
----
+## Morning Walk
+- **Time:** 4:55–5:00 AM (Siri-suggested)  
+- **Duration:** 5 minutes  
+- **Steps:** Approx. 1,800  
+- **Notes:** Early morning walk, light activity  
 
-## 🚶 Walks & Steps
-| Time        | Duration | Steps (est.) | Notes |
-|------------|---------|--------------|------|
-| 4:55–5:00 AM | 5 min  | Siri walk ✅  | Morning Siri-suggested walk |
-| 7:25–7:30 AM | 5 min  | 500? 🚶‍♂️   | While tea/coffee heating |
-| 8:10–8:40 AM | 30 min | 1,800 🏞   | Outside walk |
-| 6:10–6:40 PM | 30 min | 2,000 🌇   | Evening outside walk |
-| 8:00 PM      | 10 min | ~1,000 🕗 | Short walk |
-| 8:40 PM      | 5 min  | ~500 🌙    | Final walk before bed |
-
-**Total steps:** ~4,500+ ✅  
-
----
-
-## 💪 Strength Training
-| Time   | Focus Muscles | Notes |
-|--------|---------------|------|
-| 12:00 PM | Lateral & Biceps | Midday session |
-| 4:00 PM  | Lateral & Biceps | Evening session |
-
----
-
-## 🍽 Meals & Snacks
-
-### 🥯 Breakfast
-- **Bagels** (2 × 210g)  
-  - Fat: 3g, Sat: 1g, Carbs: 86g, Fiber: 10g, Sugar: 2g, Protein: 16g, Sodium: 920mg, Cholesterol: 0  
+## Breakfast
+- **Bagels:** 2 (210 g each)  
+  - Fat: 3 g | Saturated: 1 g | Carbs: 86 g | Fiber: 10 g | Sugar: 2 g | Protein: 16 g | Sodium: 920 mg | Cholesterol: 0  
 - **Butter:** ~2 tbsp  
-- **Water + Apple Cider Vinegar**  
-- **Popcorn** (handful)
+- **Water:** with apple cider vinegar  
+- **Popcorn:** small handful, lightly buttered  
 
-### ☕ Coffee
-- **Hazelnut creamer:** 1 tbsp  
-  - 25 kcal, Fat: 1g, Sat: 1g, Carbs: 3g, Sugar: 3g  
+## Mid-Morning Walk
+- **Duration:** 30 minutes  
+- **Steps:** Estimated ~2,500  
+- **Notes:** Some dizziness/eye pulsing due to vertigo, left ear loud/high-pitched noise  
 
-### 🍔 Lunch
-- **KFC burger + fries + drink**  
-  - Calories: 1000–1300 kcal estimate  
+## Coffee
+- **1 tbsp hazelnut creamer**  
+  - Calories: 25 | Fat: 1 g | Saturated: 0.1 g | Carbs: 3 g | Sugar: 3 g | Protein: 0 g | Sodium: 20 mg | Cholesterol: 0 mg  
 
-### 🍲 Dinner
-- **Chicken Lasagna** (1/4 tray)  
-  - 390 kcal, Fat: 15g, Sat: 8g, Trans: 0.4g, Carbs: 37g, Fiber: 2g, Sugar: 4g, Protein: 27g, Sodium: 700mg, Cholesterol: 70mg  
+## Lunch
+- **KFC Burger, Fries & Drink:** 1,000–1,300 calories  
+- **Notes:** Several small walks while waiting for bus (~45 minutes)  
 
-### 🍨 Evening Snack
-- **Ice Cream:** 3 scoops / ¾ cup (~20g sugar)  
-- **Mr. Noodles** (64g full pouch)  
-  - 280 kcal, Fat: 10g, Sat: 5g, Carbs: 40g, Fiber: 2g, Sugar: 3g, Protein: 8g, Sodium: 1,000mg  
+## Strength Training
+- **Noon session:** Lateral & Biceps  
+- **4 PM session:** Lateral & Biceps  
 
----
+## Afternoon Snack
+- **Ice Cream:** ¾ cup (3 scoops)  
+- **Mr. Noodles (full pouch):** 64 g  
+  - Calories: 280 | Fat: 10 g | Saturated: 5 g | Carbs: 40 g | Fiber: 2 g | Sugar: 3 g | Protein: 8 g | Sodium: 1,000 mg | Cholesterol: 0  
 
-## 📝 Notes
-- Vertigo symptoms: loud left ear noise, eye pulsing, slight dizziness.  
-- Energy: steady & strong throughout the day 💪  
-- iPadOS 26.1 installed & tested: Slide Over, Liquid Glass tint, windowing, Stage Manager ✨  
-- Volunteer paperwork for Virtual Heart Camp (Nov 22) submitted ✅  
-- 12-hour fast (8 AM – 8 PM) maintained; used water + apple cider vinegar 🍋  
-- Overall mood: positive, energized, excited about tech updates & volunteer opportunities 😃  
+## Dinner
+- **Chicken Lasagna (¼ tray):**  
+  - Calories: 390 | Fat: 15 g | Saturated: 8 g | Trans: 0.4 g | Carbs: 37 g | Fiber: 2 g | Sugar: 4 g | Protein: 27 g | Sodium: 700 mg | Cholesterol: 70 mg  
+
+## Evening Walks
+- **8 PM:** 10-minute walk (~1,000–1,200 steps estimated)  
+- **8:40 PM:** 5-minute walk (~500–600 steps estimated)  
+
+## Fasting
+- **Window:** 8:00 AM – 8:00 PM  
+- **Notes:** Flexible approach, sometimes including coffee, tea, or water with apple cider vinegar  
+
+## Notes
+- Vertigo, left ear loud noise, mild dizziness during morning walk  
+- Overall energy: steady and strong throughout the day  
+- Paperwork for CHD Virtual Heart Camp completed (volunteer details submitted)  
 
 ---
