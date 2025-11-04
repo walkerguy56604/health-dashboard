@@ -1,6 +1,6 @@
 ---
 date: 2025-11-04
-day_of_week: Tuesday
+day_of_week: Monday
 category: Daily Health Log
 tags:
   - blood pressure
@@ -13,53 +13,32 @@ summary: >
   Morning walks, strength training, and black coffee start the day.
   Ongoing updates for blood pressure, meals, and evening reflection will follow.
 ---
-# 2025-11-04-health-log.md
 
-## Exercise
-- 12:00 AM – 12:05 AM: Mini walk (5 minutes, ~500 steps, ~20 kcal)  
-  *Note: Not a Siri suggestion*
-- Placeholder: Strength training sessions
-- Placeholder: Additional walks throughout the day
+# Daily Health Log – November 4, 2025
+
+## Morning
+- **5:55 AM** – 5-minute walk (Siri suggested)
+- **6:00 AM** – Record placeholder for BP (to be updated)
+- **7:50 AM** – 5-minute walk
+- **Strength training** – starting after morning walk
+- **Breakfast** – black coffee (no honey)
 
 ## Meals
-- Breakfast: [Details not added yet]
-- Lunch: [Details not added yet]
-- Dinner: [Details not added yet]
-- Snacks: [Details not added yet]
+- **Lunch:** (to be updated)
+- **Dinner:** (to be updated)
+- **Snacks:** (to be updated)
+
+## Exercise
+- Morning walks noted above
+- Strength training details (muscles, reps) to be filled
+
+## Fasting
+- **Current schedule:** 8 AM – 8 PM
+- Notes: placeholder, updates throughout the day
 
 ## Blood Pressure
-- Placeholder: Morning reading
-- Placeholder: Midday reading
-- Placeholder: Evening reading
+- **Morning readings:** placeholder
+- **Other readings:** placeholder
 
 ## Notes
-- Starting a new daily log for November 4.
-- Any additional comments or observations can be added here.
-# 🗓️ Daily Summary — November 4, 2025
-
-## 🌅 Morning Start
-
-**Activities**
-- **12:00 AM – 12:05 AM:** 5-minute walk (≈ 500 steps | 20 kcal | Light Zone)  
-- **5:55 AM – 6:00 AM:** 5-minute Siri-suggested walk (≈ 500 steps | 20 kcal | Light Zone)  
-- **7:50 AM – 7:55 AM:** 5-minute pre-workout walk (≈ 500 steps | 20 kcal | Light Zone)  
-- **8:00 AM – 8:20 AM:** Strength training (~ 20 min | ≈ 90 kcal | Moderate Zone)
-
-**Totals (so far)**
-- Total duration: ≈ 35 minutes  
-- Steps: ≈ 1,500  
-- Estimated calories burned: ≈ 150 kcal  
-
----
-
-## ☕ Morning Meal
-- **Coffee** – black, no honey or sugar  
-
----
-
-### ⏭️ Next Updates
-We’ll append throughout the day:
-- 🩸 Blood Pressure readings  
-- 🍽️ Lunch / snacks / dinner  
-- 🚶 Afternoon or evening walks  
-- 🌙 End-of-day reflection / totals  
+- General notes, mood, energy levels, or any special observations
