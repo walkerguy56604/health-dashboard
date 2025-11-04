@@ -42,3 +42,25 @@ summary: >
 
 ## Notes
 - General notes, mood, energy levels, or any special observations
+### November 4, 2025 – Breakfast
+
+**Time:** Morning  
+**Meal:** Steel-cut oats with honey, butter, and oat milk  
+
+**Ingredients & Portions:**
+- Steel-cut oats – 1/3 cup (140 g)  
+- Honey – ½ tsp (≈3 g)  
+- Butter – 1 tbsp (≈14 g)  
+- Oat milk – ½ cup (≈120 ml)  
+
+**Nutrition (approximate totals):**
+- **Calories:** 373 kcal  
+- **Fat:** 16 g (Saturated 7.75 g, Trans 0 g)  
+- **Carbs:** 35.5 g (Fiber 5 g, Sugars 4.5 g)  
+- **Protein:** 7.5 g  
+- **Cholesterol:** 31 mg  
+- **Sodium:** 150 mg  
+
+**Notes:**  
+- Oat milk is Earth’s Own brand.  
+- Portions of honey and milk were estimated at half of standard measures.  
