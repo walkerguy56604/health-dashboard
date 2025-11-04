@@ -64,3 +64,40 @@ summary: >
 **Notes:**  
 - Oat milk is Earth’s Own brand.  
 - Portions of honey and milk were estimated at half of standard measures.  
+### November 4, 2025 – Morning Activity
+
+**Walks:**  
+- 5-minute walk at 5:55 AM – light, ~estimate steps, shortness of breath and slight dizziness due to vertigo  
+- 5-minute walk at 7:50 AM – light, ~estimate steps  
+
+**Strength Training:**  
+- 8:00 AM – 3 rounds of 10 reps each: biceps and laterals  
+
+**Notes:**  
+- Morning walks were light due to vertigo symptoms.  
+- Strength training performed as usual, focusing on biceps and laterals.
+- ### November 4, 2025 – Afternoon Activity
+
+**Walks:**  
+- Placeholder for afternoon walk – ~estimate steps  
+
+**Strength Training / Other Exercise:**  
+- Placeholder – muscle groups, sets, reps  
+
+**Notes:**  
+- Any relevant notes or observations for afternoon sessions.
+
+### November 4, 2025 – Evening Activity
+
+**Walks:**  
+- Placeholder for evening walk – ~estimate steps  
+
+**Meals:**  
+- Lunch placeholder – details TBD  
+- Dinner placeholder – details TBD  
+
+**Blood Pressure / Vitals:**  
+- Placeholder for evening BP check – values TBD  
+
+**Notes:**  
+- Evening observations, shortness of breath, dizziness, or other notes.
