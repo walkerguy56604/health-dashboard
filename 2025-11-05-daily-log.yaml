@@ -45,20 +45,40 @@ appointments:
 meals:
   lunch:
     planned: "leftover spaghetti with garlic bread"
-    actual: ~
-    calories: ~
-    carbs_g: ~
-    fat_g: ~
-    protein_g: ~
-    notes: "To be updated after eating"
-  snacks_drinks:
-    planned: ~
-    actual: ~
-    calories: ~
-    carbs_g: ~
-    fat_g: ~
-    protein_g: ~
-    notes: "To be updated throughout the day"
+    actual:
+      garlic_bread:
+        portion: "about 1/2 loaf (package says 1/4 per serving)"
+        calories: 260
+        fat_g: 12
+        saturated_fat_g: 1.5
+        trans_fat_g: 0
+        carbs_g: 32
+        fiber_g: 2
+        sugar_g: 1
+        protein_g: 6
+        cholesterol_mg: 0
+        sodium_mg: 430
+      spaghetti:
+        portion: "unknown (half of 1/11 box, box discarded)"
+        calories: ~
+        fat_g: ~
+        carbs_g: ~
+        fiber_g: ~
+        sugar_g: ~
+        protein_g: ~
+        notes: "Estimate unavailable, box discarded"
+    total_estimated:
+      calories: 260
+      fat_g: 12
+      saturated_fat_g: 1.5
+      trans_fat_g: 0
+      carbs_g: 32
+      fiber_g: 2
+      sugar_g: 1
+      protein_g: 6
+      cholesterol_mg: 0
+      sodium_mg: 430
+      notes: "Only garlic bread included; spaghetti unknown"
 
 afternoon:
   walk:
@@ -91,3 +111,11 @@ evening:
     fat_g: ~
     protein_g: ~
     notes: ~
+
+totals:
+  steps:
+    morning_total: 3275
+    day_total: 3275  # update as more walks happen
+  calories:
+    lunch_partial_total: 260
+    day_total: 263  # includes ACV drink 3 cal + lunch 260
