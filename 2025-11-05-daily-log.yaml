@@ -29,26 +29,20 @@ morning:
   08:00:
     activity: "Strength training"
     duration_minutes: 60
-    sets_reps: ""
-    notes: "Morning session, full-body workout"
+    exercises:
+      - name: "Bicep curl / lateral curl"
+        sets_reps: ""
+        notes: "Last exercise of morning session"
+    notes: "Full-body morning workout"
+  08:30:
+    activity: "5-minute walk (post-strength training)"
+    notes: "Completes 8 AM walk session"
+  09:00:
+    activity: "Next walk"
+    duration_minutes: ""
+    notes: "To be updated after completion"
 midday:
   # Add meals, snacks, BP, hydration, activities here
-  # Example:
-  # 12:00:
-  #   meal:
-  #     name: ""
-  #     portion: ""
-  #     calories: 
-  #     macros:
-  #       protein: 
-  #       carbs: 
-  #       fat: 
-  #     notes: ""
-  #   activity:
-  #     type: ""
-  #     duration_minutes: 
-  #     steps: 
-  #     sets_reps: ""
 afternoon:
   # Add meals, snacks, BP, hydration, activities here
 evening:
