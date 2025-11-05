@@ -1,0 +1,36 @@
+date: 2025-11-05
+morning:
+  06:55:
+    activity: "5-minute Siri walk"
+    notes: ""
+  07:50:
+    blood_pressure:
+      systolic: 124
+      diastolic: 63
+      pulse: 76
+      hydration: "L"
+    notes: ""
+  07:55:
+    activity: "5-minute walk while brewing coffee"
+    coffee:
+      type: "Hazelnut Latte Silk Oat Creamer"
+      portion_ml: 15
+      calories: 25
+      fat: 1
+      sat_fat: 0.1
+      trans_fat: 0
+      carbs: 3
+      sugar: 3
+      fiber: 0
+      protein: 0
+      cholesterol: 0
+      sodium: 20
+    notes: ""
+  08:00:
+    activity: "Strength training (~1 hr)"
+    notes: ""
+midday: {}
+afternoon: {}
+evening: {}
+notes:
+  general: ""
