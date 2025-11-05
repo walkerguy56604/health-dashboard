@@ -1,0 +1,18 @@
+afternoon:
+  strength_training:
+    "12:00":
+      activity: "strength training"
+      duration_minutes: 25
+      details:
+        - "bicep curls: 3 sets of 12 reps"
+        - "lateral raises: 3 sets of 12 reps"
+        - "core and shoulder work: 3 sets of 12 reps"
+  walk:
+    "12:10":
+      activity: "walk"
+      duration_minutes: 5
+      steps: 450
+      notes: "completed full 5-minute walk right after strength training"
+day_summary:
+  total_steps: 3000
+  notes: "morning and midday activity complete; strong consistency maintained"
