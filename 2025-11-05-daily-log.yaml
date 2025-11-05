@@ -29,9 +29,29 @@ morning:
   08:00:
     activity: "Strength training"
     duration_minutes: 60
-    notes: "Morning session, full-body workout; sets and reps per usual routine"
-midday: {}
-afternoon: {}
-evening: {}
+    sets_reps: ""
+    notes: "Morning session, full-body workout"
+midday:
+  # Add meals, snacks, BP, hydration, activities here
+  # Example:
+  # 12:00:
+  #   meal:
+  #     name: ""
+  #     portion: ""
+  #     calories: 
+  #     macros:
+  #       protein: 
+  #       carbs: 
+  #       fat: 
+  #     notes: ""
+  #   activity:
+  #     type: ""
+  #     duration_minutes: 
+  #     steps: 
+  #     sets_reps: ""
+afternoon:
+  # Add meals, snacks, BP, hydration, activities here
+evening:
+  # Add meals, snacks, BP, hydration, activities here
 notes:
   general: ""
