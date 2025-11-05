@@ -1,121 +1,80 @@
-morning:
-  "6:55":
-    activity: "walk"
-    duration_minutes: 5
-    steps: 550
-  "7:55":
-    activity: "walk"
-    duration_minutes: 5
-    steps: 550
-  "8:30":
-    activity: "strength training"
-    duration_minutes: 25
-    details:
-      - "bicep curls"
-      - "lateral raises"
-      - "other exercises"
-  "8:55":
-    activity: "walk"
-    duration_minutes: 5
-    steps: 550
-  "9:08":
-    activity: "walk"
-    duration_minutes: 17
-    steps: 1625
-  "9:30":
-    meal:
-      drink: "water with apple cider vinegar (1 tbsp, with mother)"
-      calories: 3
-      carbs_g: 0.1
-      fat_g: 0
-      protein_g: 0
-      sugar_g: 0
-      sodium_mg: 1
+date: 2025-11-05
 
-appointments:
-  holter_monitor:
-    start: "2025-11-18 10:45"
-    end: "2025-11-19 09:45"
-    notes: "24-hour Holter monitor"
-  a1c:
-    status: "needs rebooking"
-    doctor_call: "2025-11-13 13:00-16:00"
-    notes: "Discuss A1C test and schedule lab"
+health:
+  blood_pressure:
+    reading: "124/63/76"
+    hydration_status: "L"
+    time: "7:50 AM"
 
-meals:
+hydration:
+  - type: "water with apple cider vinegar (with mother)"
+    amount: "1 tbsp ACV in water"
+    time: "morning"
+
+activity:
+  walks:
+    - time: "6:55 AM"
+      duration_minutes: 5
+      est_steps: 400
+    - time: "7:55 AM"
+      duration_minutes: 5
+      est_steps: 400
+    - time: "9:08 AM"
+      duration_minutes: 17
+      est_steps: 1625
+    - time: "12:10 PM"
+      duration_minutes: 5
+      est_steps: 450
+  strength_training:
+    - time: "8:00 AM"
+      duration_minutes: 25
+      exercises:
+        - bicep curls
+        - lateral raises
+        - shoulder raises
+    - time: "12:00 PM"
+      duration_minutes: 25
+      exercises:
+        - bicep curls
+        - lateral raises
+  total_steps_estimate: 3000
+
+nutrition:
+  breakfast:
+    - item: "coffee with hazelnut oat creamer"
+      details:
+        calories: 25
+        fat_g: 1
+        sat_fat_g: 0.1
+        carbs_g: 3
+        sugar_g: 3
+        protein_g: 0
+        sodium_mg: 20
   lunch:
-    planned: "leftover spaghetti with garlic bread"
-    actual:
-      garlic_bread:
-        portion: "about 1/2 loaf (package says 1/4 per serving)"
+    - item: "garlic bread"
+      details:
+        amount: "1/2 loaf"
         calories: 260
         fat_g: 12
-        saturated_fat_g: 1.5
-        trans_fat_g: 0
+        sat_fat_g: 1.5
         carbs_g: 32
         fiber_g: 2
         sugar_g: 1
         protein_g: 6
-        cholesterol_mg: 0
         sodium_mg: 430
-      spaghetti:
-        portion: "unknown (half of 1/11 box, box discarded)"
-        calories: ~
-        fat_g: ~
-        carbs_g: ~
-        fiber_g: ~
-        sugar_g: ~
-        protein_g: ~
-        notes: "Estimate unavailable, box discarded"
-    total_estimated:
-      calories: 260
-      fat_g: 12
-      saturated_fat_g: 1.5
-      trans_fat_g: 0
-      carbs_g: 32
-      fiber_g: 2
-      sugar_g: 1
-      protein_g: 6
-      cholesterol_mg: 0
-      sodium_mg: 430
-      notes: "Only garlic bread included; spaghetti unknown"
+    - item: "spaghetti"
+      details:
+        amount: "1/2 box (approx.)"
+        calories: "unknown"
+  notes:
+    - "Spaghetti box discarded, unable to verify nutrition facts."
 
-afternoon:
-  walk:
-    planned: ~
-    actual: ~
-    duration_minutes: ~
-    steps: ~
-  strength_training:
-    planned: ~
-    actual: ~
-    duration_minutes: ~
-    details: ~
-
-evening:
-  walk:
-    planned: ~
-    actual: ~
-    duration_minutes: ~
-    steps: ~
-  strength_training:
-    planned: ~
-    actual: ~
-    duration_minutes: ~
-    details: ~
-  dinner:
-    planned: ~
-    actual: ~
-    calories: ~
-    carbs_g: ~
-    fat_g: ~
-    protein_g: ~
-    notes: ~
-
-totals:
-  steps:
-    morning_total: 3275
-    day_total: 3275  # update as more walks happen
-  calories:
-    lunch_partial_total: 260
-    day_total: 263  # includes ACV drink 3 cal + lunch 260
+medical:
+  upcoming_appointments:
+    - type: "Holter Monitor"
+      date: "Nov 18, 2025"
+      time: "10:45 AM"
+      return: "Nov 19, 2025 at 9:45 AM"
+    - type: "A1C test"
+      status: "expired (Sept 2025)"
+      follow_up: "Phone appointment with doctor Nov 12 between 1–4 PM"
