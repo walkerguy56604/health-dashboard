@@ -31,3 +31,19 @@ _All readings include systolic/diastolic/heart rate. IHB indicates irregular hea
 ## September 23, 2024
 1. 120 / 63 / 72
 2. 113 / 58 / 71
+# September 2024 Blood Pressure Readings
+
+| Date       | Systolic (mmHg) | Diastolic (mmHg) | Heart Rate (bpm) | IHB |
+|------------|----------------|----------------|-----------------|-----|
+| Sep 6      | 120            | 62             | 78              | ❌  |
+| Sep 6      | 115            | 65             | 86              | ❌  |
+| Sep 9      | 126            | 63             | 84              | ❌  |
+| Sep 12     | 112            | 60             | 83              | ❌  |
+| Sep 13     | 111            | 59             | 76              | ❌  |
+| Sep 13     | 102            | 60             | 74              | ❌  |
+| Sep 16     | 110            | 61             | 71              | ✅  |
+| Sep 16     | 116            | 67             | 73              | ❌  |
+| Sep 20     | 114            | 66             | 83              | ✅  |
+| Sep 20     | 120            | 62             | 82              | ❌  |
+| Sep 20     | 120            | 63             | 72              | ❌  |
+| Sep 20     | 113            | 58             | 71              | ❌  |
