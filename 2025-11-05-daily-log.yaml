@@ -1,51 +1,93 @@
-date: 2025-11-05
 morning:
-  06:55:
-    activity: "5-minute Siri walk"
-    notes: ""
-  07:50:
-    blood_pressure:
-      systolic: 124
-      diastolic: 63
-      pulse: 76
-      hydration: "L"
-    notes: ""
-  07:55:
-    activity: "5-minute walk while brewing coffee"
-    coffee:
-      type: "Hazelnut Latte Silk Oat Creamer"
-      portion_ml: 15
-      calories: 25
-      fat: 1
-      sat_fat: 0.1
-      trans_fat: 0
-      carbs: 3
-      sugar: 3
-      fiber: 0
-      protein: 0
-      cholesterol: 0
-      sodium: 20
-    notes: ""
-  08:00:
-    activity: "Strength training"
-    duration_minutes: 60
-    exercises:
-      - name: "Bicep curl / lateral curl"
-        sets_reps: ""
-        notes: "Last exercise of morning session"
-    notes: "Full-body morning workout"
-  08:30:
-    activity: "5-minute walk (post-strength training)"
-    notes: "Completes 8 AM walk session"
-  09:00:
-    activity: "Next walk"
-    duration_minutes: ""
-    notes: "To be updated after completion"
-midday:
-  # Add meals, snacks, BP, hydration, activities here
+  "6:55":
+    activity: "walk"
+    duration_minutes: 5
+    steps: 550
+  "7:55":
+    activity: "walk"
+    duration_minutes: 5
+    steps: 550
+  "8:30":
+    activity: "strength training"
+    duration_minutes: 25
+    details:
+      - "bicep curls"
+      - "lateral raises"
+      - "other exercises"
+  "8:55":
+    activity: "walk"
+    duration_minutes: 5
+    steps: 550
+  "9:08":
+    activity: "walk"
+    duration_minutes: 17
+    steps: 1625
+  "9:30":
+    meal:
+      drink: "water with apple cider vinegar (1 tbsp, with mother)"
+      calories: 3
+      carbs_g: 0.1
+      fat_g: 0
+      protein_g: 0
+      sugar_g: 0
+      sodium_mg: 1
+
+appointments:
+  holter_monitor:
+    start: "2025-11-18 10:45"
+    end: "2025-11-19 09:45"
+    notes: "24-hour Holter monitor"
+  a1c:
+    status: "needs rebooking"
+    doctor_call: "2025-11-13 13:00-16:00"
+    notes: "Discuss A1C test and schedule lab"
+
+meals:
+  lunch:
+    planned: "leftover spaghetti with garlic bread"
+    actual: ~
+    calories: ~
+    carbs_g: ~
+    fat_g: ~
+    protein_g: ~
+    notes: "To be updated after eating"
+  snacks_drinks:
+    planned: ~
+    actual: ~
+    calories: ~
+    carbs_g: ~
+    fat_g: ~
+    protein_g: ~
+    notes: "To be updated throughout the day"
+
 afternoon:
-  # Add meals, snacks, BP, hydration, activities here
+  walk:
+    planned: ~
+    actual: ~
+    duration_minutes: ~
+    steps: ~
+  strength_training:
+    planned: ~
+    actual: ~
+    duration_minutes: ~
+    details: ~
+
 evening:
-  # Add meals, snacks, BP, hydration, activities here
-notes:
-  general: ""
+  walk:
+    planned: ~
+    actual: ~
+    duration_minutes: ~
+    steps: ~
+  strength_training:
+    planned: ~
+    actual: ~
+    duration_minutes: ~
+    details: ~
+  dinner:
+    planned: ~
+    actual: ~
+    calories: ~
+    carbs_g: ~
+    fat_g: ~
+    protein_g: ~
+    notes: ~
