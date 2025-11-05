@@ -1,0 +1,117 @@
+date: 2025-11-05
+
+blood_pressure:
+  time: "07:50 AM"
+  systolic: 124
+  diastolic: 63
+  pulse: 76
+  hydration: "Light"
+  notes: "Morning water with 1 tbsp apple cider vinegar (with mother)."
+
+activity:
+  - time: "06:55 AM"
+    type: "Walk"
+    duration_min: 5
+    steps_est: 400
+  - time: "07:55 AM"
+    type: "Walk"
+    duration_min: 5
+    steps_est: 400
+  - time: "09:08 AM"
+    type: "Walk"
+    duration_min: 17
+    steps_est: 1625
+  - time: "12:10 PM"
+    type: "Walk"
+    duration_min: 5
+    steps_est: 450
+  - time: "08:00 AM"
+    type: "Strength Training"
+    duration_min: 25
+    notes: "Bicep curls, lateral & shoulder raises."
+  - time: "12:00 PM"
+    type: "Strength Training"
+    duration_min: 25
+    notes: "Bicep curls, lateral raises."
+
+steps_total_est: 3000
+
+meals:
+  - meal: "Breakfast"
+    items:
+      - name: "Coffee with hazelnut oat creamer"
+        calories: 25
+        fat_g: 1
+        sat_fat_g: 0.1
+        carbs_g: 3
+        sugar_g: 3
+        protein_g: 0
+        sodium_mg: 20
+  - meal: "Lunch"
+    items:
+      - name: "Garlic bread (½ loaf)"
+        calories: 260
+        fat_g: 12
+        sat_fat_g: 1.5
+        carbs_g: 32
+        fiber_g: 2
+        sugar_g: 1
+        protein_g: 6
+        sodium_mg: 430
+      - name: "Spaghetti (½ box est.)"
+        calories: "unknown"
+        notes: "Box discarded, nutrition not recorded."
+
+medical_updates:
+  - holter_monitor:
+      start: "2025-11-18T10:45"
+      end: "2025-11-19T09:45"
+  - a1c_test:
+      status: "Expired (Sept 2025)"
+      rebooked_for: "2025-11-12 (1–4 PM window)"
+
+notes:
+  - "Spaghetti nutrition unavailable (box discarded)."
+  - "Good energy and focus overall today."
+  - "System sync plan: Colab + DuckDB + GitHub (Deepnote exploration pending)."
+  # 🗓️ Daily Summary — November 5, 2025
+
+## 🩺 Blood Pressure & Hydration
+- 124/63/76 (7:50 AM)
+- Hydration: Light
+- Morning water with 1 tbsp apple cider vinegar (“with mother”)
+
+---
+
+## 🏃‍♂️ Activity & Steps
+- **6:55 AM** — 5-min walk (~400 steps)
+- **7:55 AM** — 5-min walk (~400 steps)
+- **9:08 AM** — 17-min walk (~1,625 steps)
+- **12:10 PM** — 5-min walk (~450 steps)
+- **Strength Training**
+  - 8:00 AM — 25 mins (bicep curls, lateral & shoulder raises)
+  - 12:00 PM — 25 mins (bicep curls, lateral raises)
+- **Total Estimated Steps:** ~3,000
+
+---
+
+## ☕ Meals & Nutrition
+- **Breakfast:** Coffee with hazelnut oat creamer  
+  - 25 cal, 1g fat, 0.1g sat fat, 3g carbs, 3g sugar, 0g protein, 20mg sodium  
+- **Lunch:**  
+  - Garlic bread (½ loaf): 260 cal, 12g fat, 1.5g sat fat, 32g carbs, 2g fiber, 1g sugar, 6g protein, 430mg sodium  
+  - Spaghetti (½ box est.): details unavailable
+
+---
+
+## 🧑‍⚕️ Medical Updates
+- **Holter Monitor:**  
+  - Start: Nov 18, 10:45 AM → Return: Nov 19, 9:45 AM  
+- **A1C Test:** Expired (Sept 2025); rebooked via doctor call — Nov 12 (1–4 PM)
+
+---
+
+## 📝 Notes
+- Spaghetti nutrition unavailable (box discarded).  
+- Good energy and focus overall today.  
+- System sync plan: Colab + DuckDB + GitHub (Deepnote exploration pending).
