@@ -1,92 +1,53 @@
-date: "2025-11-05"
+date: 2025-11-05
+entries:
+  - time: 08:05
+    activity: "5-minute walk"
+    duration: 5  # minutes
+    steps: 575
+    notes: "Morning catch-up walk"
 
-meals:
-  breakfast:
-    - item: "Oatmeal with banana and almond butter"
-      calories: 280
-      fat_g: 10
-      carbs_g: 42
-      protein_g: 8
-  lunch:
-    - item: "Maple Leaf Broccoli & Cheddar Chicken (142g)"
-      calories: 310
-      fat_g: 18
-      saturated_fat_g: 4.5
-      trans_fat_g: 0.3
-      carbs_g: 18
-      fiber_g: 1
-      sugar_g: 1
-      protein_g: 19
-      cholesterol_mg: 50
-      sodium_mg: 550
-    - item: "Spaghetti (estimated portion)"
-      calories: 200
-      fat_g: 6
-      carbs_g: 32
-      protein_g: 7
-  dinner:
-    - item: "Great Value Cheddar & Bacon Potato Skins (3 pieces)"
-      calories: 285
-      fat_g: 16.5
-      saturated_fat_g: 7.5
-      trans_fat_g: 0.3
-      carbs_g: 27
-      fiber_g: 3
-      sugar_g: 3
-      protein_g: 9
-      cholesterol_mg: 37.5
-      sodium_mg: 555
-  snacks:
-    - item: "Black coffee (outing with friend)"
-      calories: 0
-      time: "1:45 PM - 3:15 PM"
-    - item: "Medium red apple"
-      calories: 95
-      carbs_g: 25
-      fiber_g: 4
-      sugar_g: 19
-      protein_g: 0.5
-      time: "Evening"
+  - time: 08:05
+    activity: "Snack - Leftover Dinner"
+    items:
+      - name: "Maple Leaf Chicken (142g)"
+        calories: 310
+        fat: 18
+        saturated_fat: 4.5
+        trans_fat: 0.3
+        carbs: 18
+        fiber: 1
+        protein: 19
+        cholesterol: 50
+        sodium: 550
+      - name: "Garlic Bread (~1/2 loaf)"
+        calories: 260
+        fat: 12
+        saturated_fat: 1.5
+        trans_fat: 0
+        carbs: 32
+        fiber: 2
+        protein: 6
+        cholesterol: 0
+        sodium: 430
 
-walks:
-  - time: "6:55 AM"
-    duration_min: 5
-  - time: "7:55 AM"
-    duration_min: 5
-  - time: "8:55 AM"
-    duration_min: 5
-  - time: "9:08 AM"
-    duration_min: 17
-    steps: 1625
-  - time: "12:10 PM"
-    duration_min: 5
-  - time: "3:30 PM"
-    duration_min: 5
-    steps: 550
-  - time: "4:45 PM"
-    duration_min: 30
-    steps: 2000
+  - time: 20:20-20:35
+    activity: "Strength Training"
+    exercises:
+      - name: "Biceps curl"
+        reps: 3
+        sets: 10
+      - name: "Lateral curl"
+        reps: 3
+        sets: 10
+    duration: 15  # minutes
 
-strength_training:
-  - time: "3:50 PM - 4:05 PM"
-    duration_min: 15
-  - note: "Earlier rounds included; total 65 min for the day"
+  - time: 20:35
+    activity: "Water + Apple Cider Vinegar (with mother)"
+    quantity: "1 tbsp"
+    calories: 5
 
-placeholders:
-  - zoom_call: "6:30 PM - 8:00 PM"
-  - dessert_or_evening_snack: "TBD (e.g., ice cream, muffin, cookie, etc.)"
-
-summary:
-  calories_est: 1170
-  total_fat_g_est: 50.0
-  saturated_fat_g_est: 15.5
-  trans_fat_g_est: 0.6
-  carbs_g_est: 144
-  fiber_g_est: 8
-  sugar_g_est: 26
-  protein_g_est: 43.5
-  cholesterol_mg_est: 137.5
-  sodium_mg_est: 1650
-  steps_total_est: 5575
-  strength_training_total_min: 65
-  notes: "Evening walk and apple snack added. Zoom call placeholder from 6:30–8:00 PM. Dessert/snack entry TBD."
+  - time: 21:00
+    activity: "Post-Training Walk"
+    duration: TBD
+    steps: TBD
+    notes: "To be updated after walk"
