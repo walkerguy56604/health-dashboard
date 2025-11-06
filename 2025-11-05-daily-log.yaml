@@ -1,158 +1,51 @@
-date: "2025-11-05"
+schema_version: "1.1.0"
+schema_url: "https://example.com/schemas/daily-log-v1.1.0.yaml"
+date: 2025-11-06
+verified_by: "GPT-5 draft (Mark review pending)"
+
+summary:
+  total_walks: 3
+  total_steps_est: 4100
+  total_strength_sessions: 1
+  total_calories_est: 875
+  notes: "Includes 5-min walk at 3:50 PM, spaghetti lunch, apple snack, and protein bar."
+
+activities:
+  - time: "10:14 AM"
+    type: "walk"
+    duration: "10 min"
+    est_steps: 800
+    est_calories: 40
+  - time: "12:19 PM"
+    type: "strength training"
+    duration: "session"
+    est_calories: 200
+  - time: "2:05 PM"
+    type: "walk"
+    duration: "25-30 min"
+    est_steps: 1800
+    est_calories: 130
+  - time: "3:50 PM"
+    type: "walk"
+    duration: "5 min"
+    est_steps: 500
+    est_calories: 30
 
 meals:
   breakfast:
-    - time: "Morning"
-      items:
-        - name: "Hazelnut Latte with Oat Creamer"
-          quantity: 1
-          volume_ml: 15
-          calories: 25
-          fat: 1
-          saturated_fat: 0.1
-          trans_fat: 0
-          carbs: 3
-          fiber: 0
-          sugar: 3
-          protein: 0
-          cholesterol: 0
-          sodium: 20
+    - item: "Coffee with Silk Oat Hazelnut Creamer"
+      calories: 25
+      notes: "1 tbsp Silk oat dairy-free creamer"
   lunch:
-    - time: "Around Noon"
-      items:
-        - name: "Garlic Bread"
-          quantity: 0.5  # loaf
-          calories: 260
-          fat: 12
-          saturated_fat: 1.5
-          trans_fat: 0
-          carbs: 32
-          fiber: 2
-          sugar: 1
-          protein: 6
-          cholesterol: 0
-          sodium: 430
-        - name: "Spaghetti"
-          quantity: 1  # bowl, estimated
-          calories: 200
-          fat: 5  # estimated
-          saturated_fat: 1  # estimated
-          trans_fat: 0
-          carbs: 40  # estimated
-          fiber: 3  # estimated
-          sugar: 5  # estimated
-          protein: 8  # estimated
+    - item: "Spaghetti (half bowl with tomato sauce)"
+      calories: 350
+  snack:
+    - item: "Medium red apple"
+      calories: 80
+    - item: "Protein bar (caramel & cashew, 55g)"
+      calories: 210
 
-  dinner:
-    - time: "Evening"
-      items:
-        - name: "Maple Leaf Chicken with Broccoli & Cheddar"
-          quantity: 1  # piece, 142g
-          calories: 310
-          fat: 18
-          saturated_fat: 4.5
-          trans_fat: 0.3
-          carbs: 18
-          fiber: 1
-          sugar: 1
-          protein: 19
-          cholesterol: 50
-          sodium: 550
-
-snacks:
-  - time: "Midday"
-    items:
-      - name: "Apple"
-        quantity: 1
-        calories: 95
-        protein: 0
-        carbs: 25
-        fat: 0
-  - time: "Evening"
-    items:
-      - name: "Silvery Oats Sprouted Grain Bread"
-        quantity: 2  # slices
-        calories: 160
-        fat: 2
-        saturated_fat: 0
-        trans_fat: 0
-        polyunsaturated_fat: 1
-        monounsaturated_fat: 1
-        cholesterol: 0
-        sodium: 230
-        carbs: 26
-        fiber: 3
-        sugar: 3
-        added_sugar: 2
-        protein: 10
-      - name: "Herb & Garlic Cream Cheese"
-        quantity: 2  # tablespoons
-        calories: 80
-        fat: 7
-        saturated_fat: 4.5
-        trans_fat: 0.3
-        carbs: 3
-        fiber: 0
-        sugar: 2
-        protein: 2
-        cholesterol: 20
-        sodium: 130
-
-exercise:
-  walks:
-    - time: "6:55 AM"
-      duration_min: 5
-      steps: 550
-    - time: "7:55 AM"
-      duration_min: 5
-      steps: 550
-    - time: "8:10 AM"
-      duration_min: 5
-      steps: 575
-    - time: "9:00 AM"
-      duration_min: 5
-      steps: 550
-    - time: "9:30 AM"
-      duration_min: 5
-      steps: 550
-    - time: "12:10 PM"
-      duration_min: 5
-      steps: 550
-    - time: "4:45 PM"
-      duration_min: 30
-      steps: 2000
-  strength_training:
-    - time: "8:20 AM - 8:35 AM"
-      exercises:
-        - name: "Biceps Curl"
-          sets: 3
-          reps: 10
-        - name: "Lateral Raise"
-          sets: 3
-          reps: 10
-    - time: "3:50 PM - 4:05 PM"
-      exercises:
-        - name: "Strength Training"
-          sets: 3
-          reps: 10
-  notes:
-    - "Zoom call from 6:30 PM - 8:00 PM, no activity records during this time."
-
-hydration:
-  - time: "Morning"
-    quantity_ml: 250
-    content: "Water with apple cider vinegar"
-  - time: "Afternoon"
-    quantity_ml: 250
-    content: "Water with apple cider vinegar"
-  - time: "Evening"
-    quantity_ml: 250
-    content: "Water with apple cider vinegar"
-
-appointments:
-  - type: "24-hour Holter Monitor"
-    start: "2025-11-18 10:45"
-    end: "2025-11-19 09:45"
-  - type: "A1C Phone Call"
-    date: "2025-11-13"
-    time_window: "1:00 PM - 4:00 PM"
+placeholders:
+  dinner: "To be added"
+  hydration: "To be updated"
+  evening_activity: "To be added"
