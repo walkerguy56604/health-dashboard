@@ -1,53 +1,115 @@
 date: 2025-11-05
 entries:
-  - time: 08:05
+  - time: 06:55
     activity: "5-minute walk"
-    duration: 5  # minutes
-    steps: 575
-    notes: "Morning catch-up walk"
+    duration: 5
+    steps: 550
+    notes: "Morning walk before coffee"
 
-  - time: 08:05
-    activity: "Snack - Leftover Dinner"
-    items:
-      - name: "Maple Leaf Chicken (142g)"
-        calories: 310
-        fat: 18
-        saturated_fat: 4.5
-        trans_fat: 0.3
-        carbs: 18
-        fiber: 1
-        protein: 19
-        cholesterol: 50
-        sodium: 550
-      - name: "Garlic Bread (~1/2 loaf)"
-        calories: 260
-        fat: 12
-        saturated_fat: 1.5
-        trans_fat: 0
-        carbs: 32
-        fiber: 2
-        protein: 6
-        cholesterol: 0
-        sodium: 430
+  - time: 07:55
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Walk while brewing coffee"
 
-  - time: 20:20-20:35
-    activity: "Strength Training"
+  - time: 08:00
+    activity: "Strength training"
+    duration: 35  # minutes
     exercises:
       - name: "Biceps curl"
-        reps: 3
-        sets: 10
+        sets: 3
+        reps: 10
       - name: "Lateral curl"
-        reps: 3
-        sets: 10
-    duration: 15  # minutes
+        sets: 3
+        reps: 10
+    notes: "Completed morning strength training"
 
-  - time: 20:35
-    activity: "Water + Apple Cider Vinegar (with mother)"
-    quantity: "1 tbsp"
-    calories: 5
+  - time: 08:10
+    activity: "5-minute post-strength walk"
+    duration: 5
+    steps: 550
+    notes: "Walk after strength training"
 
-  - time: 21:00
-    activity: "Post-Training Walk"
-    duration: TBD
-    steps: TBD
-    notes: "To be updated after walk"
+  - time: 08:55
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Catch-up walk before 9:00"
+
+  - time: 09:00
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Morning walk after strength training"
+
+  - time: 09:30
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Mid-morning walk while updating reminders"
+
+  - time: 12:00
+    activity: "Strength training"
+    duration: 15
+    exercises:
+      - name: "Biceps curl"
+        sets: 3
+        reps: 10
+      - name: "Lateral curl"
+        sets: 3
+        reps: 10
+    notes: "Noon session"
+
+  - time: 12:10
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Post-noon strength walk"
+
+  - time: 13:45
+    activity: "Coffee meetup"
+    duration: 90  # minutes
+    steps: 240
+    notes: "Meeting a friend, no snacks consumed"
+
+  - time: 15:30
+    activity: "5-minute walk"
+    duration: 5
+    steps: 550
+    notes: "Afternoon walk"
+
+  - time: 16:45
+    activity: "25-30 minute walk"
+    duration: 30
+    steps: 2000
+    notes: "Evening walk in the rain"
+
+  - meals:
+      - type: "Coffee"
+        description: "Hazelnut latte silk, oat creamer"
+        amount: "1 tbsp"
+        calories: 25
+        fat: 1
+        carbs: 3
+        protein: 0
+      - type: "Lunch"
+        description: "Garlic bread, spaghetti (estimated)"
+        amount: "1/2 loaf, 1 bowl"
+        calories: "estimate"
+      - type: "Dinner"
+        description: "Maple Leaf chicken, broccoli & cheddar"
+        amount: "1 piece 142g"
+        calories: 310
+        fat: 18
+        carbs: 18
+        protein: 19
+  - snacks:
+      - description: "Apple (medium red)"
+        calories: "estimate"
+      - description: "Ice cream or cookie placeholder"
+        calories: "estimate"
+
+  - hydration:
+      - time: 10:00
+        beverage: "Water with apple cider vinegar (1 tbsp)"
+        calories: 5
