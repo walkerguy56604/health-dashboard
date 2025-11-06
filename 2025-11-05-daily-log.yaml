@@ -1,82 +1,52 @@
-date: 2025-11-05
+date: "2025-11-05"
 
 meals:
   breakfast:
-    - name: "Hazelnut Latte Silk Oat Creamer"
-      quantity: 1
-      unit: tbsp
-      calories: 25
-      fat_g: 1
-      saturated_fat_g: 0.1
-      trans_fat_g: 0
-      carbs_g: 3
-      fiber_g: 0
-      sugar_g: 3
-      protein_g: 0
-      cholesterol_mg: 0
-      sodium_mg: 20
-
+    - item: "Oatmeal with banana and almond butter"
+      calories: 280
+      fat_g: 10
+      carbs_g: 42
+      protein_g: 8
   lunch:
-    - name: "Garlic Bread"
-      quantity: 0.5  # roughly half package
-      calories: 260
-      fat_g: 12
-      saturated_fat_g: 1.5
-      trans_fat_g: 0
-      carbs_g: 32
-      fiber_g: 2
+    - item: "Maple Leaf Broccoli & Cheddar Chicken (142g)"
+      calories: 310
+      fat_g: 18
+      saturated_fat_g: 4.5
+      trans_fat_g: 0.3
+      carbs_g: 18
+      fiber_g: 1
       sugar_g: 1
-      protein_g: 6
-      cholesterol_mg: 0
-      sodium_mg: 430
-
-    - name: "Spaghetti"
-      quantity: 1  # estimated bowl
+      protein_g: 19
+      cholesterol_mg: 50
+      sodium_mg: 550
+    - item: "Spaghetti (estimated portion)"
       calories: 200
-      fat_g: 5
-      saturated_fat_g: 1
-      trans_fat_g: 0
-      carbs_g: 38
-      fiber_g: 3
-      sugar_g: 2
+      fat_g: 6
+      carbs_g: 32
       protein_g: 7
-      cholesterol_mg: 0
-      sodium_mg: 0
-
-dinner:
-  - name: "Maple Leaf Chicken Broccoli & Cheddar"
-    quantity: 1  # one piece
-    weight_g: 142
-    calories: 310
-    fat_g: 18
-    saturated_fat_g: 4.5
-    trans_fat_g: 0.3
-    carbs_g: 18
-    fiber_g: 1
-    sugar_g: 1
-    protein_g: 19
-    cholesterol_mg: 50
-    sodium_mg: 550
-
-snacks:
-  - name: "Great Value Cheddar & Bacon Potato Skins"
-    quantity: 3
-    weight_g: 147  # 3 skins at 49g each approx
-    calories: 285
-    fat_g: 16.5
-    saturated_fat_g: 7.5
-    trans_fat_g: 0.3
-    carbs_g: 27
-    fiber_g: 3
-    sugar_g: 3
-    protein_g: 9
-    cholesterol_mg: 37.5
-    sodium_mg: 555
-
-exercise:
-  strength_training:
-    - total_min: 65
-      notes: "Three sessions throughout the day"
+  dinner:
+    - item: "Great Value Cheddar & Bacon Potato Skins (3 pieces)"
+      calories: 285
+      fat_g: 16.5
+      saturated_fat_g: 7.5
+      trans_fat_g: 0.3
+      carbs_g: 27
+      fiber_g: 3
+      sugar_g: 3
+      protein_g: 9
+      cholesterol_mg: 37.5
+      sodium_mg: 555
+  snacks:
+    - item: "Black coffee (outing with friend)"
+      calories: 0
+      time: "1:45 PM - 3:15 PM"
+    - item: "Medium red apple"
+      calories: 95
+      carbs_g: 25
+      fiber_g: 4
+      sugar_g: 19
+      protein_g: 0.5
+      time: "Evening"
 
 walks:
   - time: "6:55 AM"
@@ -93,22 +63,30 @@ walks:
   - time: "3:30 PM"
     duration_min: 5
     steps: 550
-  # evening walk placeholder
-  - time: "TBD"
-    duration_min: TBD
-    steps: TBD
+  - time: "4:45 PM"
+    duration_min: 30
+    steps: 2000
+
+strength_training:
+  - time: "3:50 PM - 4:05 PM"
+    duration_min: 15
+  - note: "Earlier rounds included; total 65 min for the day"
+
+placeholders:
+  - zoom_call: "6:30 PM - 8:00 PM"
+  - dessert_or_evening_snack: "TBD (e.g., ice cream, muffin, cookie, etc.)"
 
 summary:
-  calories_est: 1080
-  total_fat_g_est: 45.0
-  saturated_fat_g_est: 14.0
+  calories_est: 1170
+  total_fat_g_est: 50.0
+  saturated_fat_g_est: 15.5
   trans_fat_g_est: 0.6
-  carbs_g_est: 108
+  carbs_g_est: 144
   fiber_g_est: 8
-  sugar_g_est: 9
-  protein_g_est: 41
-  cholesterol_mg_est: 87.5
-  sodium_mg_est: 1515
-  steps_total_est: 3000
+  sugar_g_est: 26
+  protein_g_est: 43.5
+  cholesterol_mg_est: 137.5
+  sodium_mg_est: 1650
+  steps_total_est: 5575
   strength_training_total_min: 65
-  notes: "Evening walks, additional snacks, or other activities to be added as they occur."
+  notes: "Evening walk and apple snack added. Zoom call placeholder from 6:30–8:00 PM. Dessert/snack entry TBD."
