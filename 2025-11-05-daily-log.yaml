@@ -1,80 +1,102 @@
 date: 2025-11-05
 
-health:
+inputs:
   blood_pressure:
-    reading: "124/63/76"
-    hydration_status: "L"
-    time: "7:50 AM"
-
-hydration:
-  - type: "water with apple cider vinegar (with mother)"
-    amount: "1 tbsp ACV in water"
-    time: "morning"
+    time: "07:50 AM"
+    systolic: 124
+    diastolic: 63
+    pulse: 76
+  hydration:
+    status: "light"
+    beverages:
+      - type: "ACV water"
+        amount: "1 tbsp"
+        notes: "with mother"
+  meals:
+    breakfast:
+      - name: "Coffee with hazelnut oat creamer"
+        calories: 25
+        fat_g: 1
+        carbs_g: 3
+        protein_g: 0
+    lunch:
+      - name: "Garlic bread"
+        calories: 260
+        fat_g: 12
+        carbs_g: 32
+        protein_g: 6
+      - name: "Spaghetti"
+        calories: "unknown"
+    snacks: []
+    dinner:
+      - name: "Maple Leaf chicken (broccoli & cheddar, raised without antibiotics)"
+        portion_g: 142
+        calories: 310
+        fat_g: 18
+        saturated_fat_g: 4.5
+        trans_fat_g: 0.3
+        carbs_g: 18
+        fiber_g: 1
+        sugar_g: 1
+        protein_g: 19
+        cholesterol_mg: 50
+        sodium_mg: 550
+        notes: "Specialty chicken; broccoli & cheddar; one piece"
 
 activity:
   walks:
-    - time: "6:55 AM"
-      duration_minutes: 5
-      est_steps: 400
-    - time: "7:55 AM"
-      duration_minutes: 5
-      est_steps: 400
-    - time: "9:08 AM"
-      duration_minutes: 17
-      est_steps: 1625
+    - time: "06:55 AM"
+      duration_min: 5
+      steps_est: 400
+    - time: "07:55 AM"
+      duration_min: 5
+      steps_est: 400
+    - time: "09:08 AM"
+      duration_min: 17
+      steps_est: 1625
     - time: "12:10 PM"
-      duration_minutes: 5
-      est_steps: 450
+      duration_min: 5
+      steps_est: 450
+    - time_start: "03:30 PM"
+      time_end: "03:35 PM"
+      steps_est: 550
+      notes: "5-minute walk; very light, afternoon walk."
   strength_training:
-    - time: "8:00 AM"
-      duration_minutes: 25
+    - time: "08:00 AM"
+      duration_min: 25
       exercises:
         - bicep curls
         - lateral raises
-        - shoulder raises
     - time: "12:00 PM"
-      duration_minutes: 25
+      duration_min: 25
       exercises:
         - bicep curls
         - lateral raises
-  total_steps_estimate: 3000
+    - time: "03:50 PM"
+      duration_min: "TBD"
+      exercises:
+        - bicep curls
+        - lateral raises
+        # add any additional exercises you do
+  outing_1:
+    time_start: "01:45 PM"
+    time_end: "03:15 PM"
+    steps_est: 240
+    notes: "Coffee outing with friend. Very light walk. No snacks, just black coffee."
 
-nutrition:
-  breakfast:
-    - item: "coffee with hazelnut oat creamer"
-      details:
-        calories: 25
-        fat_g: 1
-        sat_fat_g: 0.1
-        carbs_g: 3
-        sugar_g: 3
-        protein_g: 0
-        sodium_mg: 20
-  lunch:
-    - item: "garlic bread"
-      details:
-        amount: "1/2 loaf"
-        calories: 260
-        fat_g: 12
-        sat_fat_g: 1.5
-        carbs_g: 32
-        fiber_g: 2
-        sugar_g: 1
-        protein_g: 6
-        sodium_mg: 430
-    - item: "spaghetti"
-      details:
-        amount: "1/2 box (approx.)"
-        calories: "unknown"
-  notes:
-    - "Spaghetti box discarded, unable to verify nutrition facts."
+evening:
+  notes: "Update any additional walks, steps, or activities after dinner. Zoom call from 6:30 PM to 8:00 PM, no records during this time."
+  walks:
+    - time_start: "TBD"
+      time_end: "TBD"
+      steps_est: "TBD"
+      notes: "Evening walk or light activity; details to be filled in later after Zoom call."
+  meals:
+    - name: "Additional snacks or desserts"
+      calories: "TBD"
+      fat_g: "TBD"
+      carbs_g: "TBD"
+      protein_g: "TBD"
+      notes: "If consumed after dinner, update accordingly."
 
-medical:
-  upcoming_appointments:
-    - type: "Holter Monitor"
-      date: "Nov 18, 2025"
-      time: "10:45 AM"
-      return: "Nov 19, 2025 at 9:45 AM"
-    - type: "A1C test"
-      status: "expired (Sept 2025)"
-      follow_up: "Phone appointment with doctor Nov 12 between 1–4 PM"
+steps_total_est: 3000
