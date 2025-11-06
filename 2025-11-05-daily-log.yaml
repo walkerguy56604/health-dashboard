@@ -1,104 +1,114 @@
 date: 2025-11-05
 
-inputs:
-  blood_pressure:
-    time: "07:50 AM"
-    systolic: 124
-    diastolic: 63
-    pulse: 76
-  hydration:
-    status: "light"
-    beverages:
-      - type: "ACV water"
-        amount: "1 tbsp"
-        notes: "with mother"
-  meals:
-    breakfast:
-      - name: "Coffee with hazelnut oat creamer"
-        calories: 25
-        fat_g: 1
-        carbs_g: 3
-        protein_g: 0
-    lunch:
-      - name: "Garlic bread"
-        calories: 260
-        fat_g: 12
-        carbs_g: 32
-        protein_g: 6
-      - name: "Spaghetti"
-        calories: "unknown"
-    snacks: []
-    dinner:
-      - name: "Maple Leaf chicken (broccoli & cheddar, raised without antibiotics)"
-        portion_g: 142
-        calories: 310
-        fat_g: 18
-        saturated_fat_g: 4.5
-        trans_fat_g: 0.3
-        carbs_g: 18
-        fiber_g: 1
-        sugar_g: 1
-        protein_g: 19
-        cholesterol_mg: 50
-        sodium_mg: 550
-        notes: "Specialty chicken; broccoli & cheddar; one piece"
+meals:
+  breakfast:
+    - name: "Hazelnut Latte Silk Oat Creamer"
+      quantity: 1
+      unit: tbsp
+      calories: 25
+      fat_g: 1
+      saturated_fat_g: 0.1
+      trans_fat_g: 0
+      carbs_g: 3
+      fiber_g: 0
+      sugar_g: 3
+      protein_g: 0
+      cholesterol_mg: 0
+      sodium_mg: 20
 
-activity:
-  walks:
-    - time: "06:55 AM"
-      duration_min: 5
-      steps_est: 400
-    - time: "07:55 AM"
-      duration_min: 5
-      steps_est: 400
-    - time: "09:08 AM"
-      duration_min: 17
-      steps_est: 1625
-    - time: "12:10 PM"
-      duration_min: 5
-      steps_est: 450
-    - time_start: "03:30 PM"
-      time_end: "03:35 PM"
-      steps_est: 550
-      notes: "5-minute walk; very light, afternoon walk."
+  lunch:
+    - name: "Garlic Bread"
+      quantity: 0.5  # roughly half package
+      calories: 260
+      fat_g: 12
+      saturated_fat_g: 1.5
+      trans_fat_g: 0
+      carbs_g: 32
+      fiber_g: 2
+      sugar_g: 1
+      protein_g: 6
+      cholesterol_mg: 0
+      sodium_mg: 430
 
+    - name: "Spaghetti"
+      quantity: 1  # estimated bowl
+      calories: 200
+      fat_g: 5
+      saturated_fat_g: 1
+      trans_fat_g: 0
+      carbs_g: 38
+      fiber_g: 3
+      sugar_g: 2
+      protein_g: 7
+      cholesterol_mg: 0
+      sodium_mg: 0
+
+dinner:
+  - name: "Maple Leaf Chicken Broccoli & Cheddar"
+    quantity: 1  # one piece
+    weight_g: 142
+    calories: 310
+    fat_g: 18
+    saturated_fat_g: 4.5
+    trans_fat_g: 0.3
+    carbs_g: 18
+    fiber_g: 1
+    sugar_g: 1
+    protein_g: 19
+    cholesterol_mg: 50
+    sodium_mg: 550
+
+snacks:
+  - name: "Great Value Cheddar & Bacon Potato Skins"
+    quantity: 3
+    weight_g: 147  # 3 skins at 49g each approx
+    calories: 285
+    fat_g: 16.5
+    saturated_fat_g: 7.5
+    trans_fat_g: 0.3
+    carbs_g: 27
+    fiber_g: 3
+    sugar_g: 3
+    protein_g: 9
+    cholesterol_mg: 37.5
+    sodium_mg: 555
+
+exercise:
   strength_training:
-    - time: "08:00 AM"
-      duration_min: 25
-      exercises:
-        - bicep curls
-        - lateral raises
-    - time: "12:00 PM"
-      duration_min: 25
-      exercises:
-        - bicep curls
-        - lateral raises
-    - time: "03:50 PM"
-      duration_min: 15
-      exercises:
-        - bicep curls
-        - lateral raises
-        # add any additional exercises you did
+    - total_min: 65
+      notes: "Three sessions throughout the day"
 
-  outing_1:
-    time_start: "01:45 PM"
-    time_end: "03:15 PM"
-    steps_est: 240
-    notes: "Coffee outing with friend. Very light walk. No snacks, just black coffee."
+walks:
+  - time: "6:55 AM"
+    duration_min: 5
+  - time: "7:55 AM"
+    duration_min: 5
+  - time: "8:55 AM"
+    duration_min: 5
+  - time: "9:08 AM"
+    duration_min: 17
+    steps: 1625
+  - time: "12:10 PM"
+    duration_min: 5
+  - time: "3:30 PM"
+    duration_min: 5
+    steps: 550
+  # evening walk placeholder
+  - time: "TBD"
+    duration_min: TBD
+    steps: TBD
 
-evening:
-  notes: "Update any additional walks, steps, or activities after dinner. Zoom call from 6:30 PM to 8:00 PM, no records during this time."
-  walks:
-    - time_start: "TBD"
-      time_end: "TBD"
-      steps_est: "TBD"
-      notes: "Short walk after last strength training round; details to be filled in later."
-  meals:
-    - name: "Additional snacks or desserts"
-      calories: "TBD"
-      fat_g: "TBD"
-      carbs_g: "TBD"
-      protein_g: "TBD"
-      notes: "If consumed after dinner, update accordingly."
-
-steps_total_est: 3000
+summary:
+  calories_est: 1080
+  total_fat_g_est: 45.0
+  saturated_fat_g_est: 14.0
+  trans_fat_g_est: 0.6
+  carbs_g_est: 108
+  fiber_g_est: 8
+  sugar_g_est: 9
+  protein_g_est: 41
+  cholesterol_mg_est: 87.5
+  sodium_mg_est: 1515
+  steps_total_est: 3000
+  strength_training_total_min: 65
+  notes: "Evening walks, additional snacks, or other activities to be added as they occur."
