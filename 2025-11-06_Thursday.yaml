@@ -1,0 +1,91 @@
+date: 2025-11-06
+day: Thursday
+
+walks:
+  - time: "6:55"
+    duration: 5
+    steps: ~
+  - time: "7:55"
+    duration: 5
+    steps: ~
+  - time: "8:55"
+    duration: 5
+    steps: ~
+  - time: "9:30"
+    duration: 5
+    steps: ~
+  - time: "12:10"
+    duration: 5
+    steps: ~
+  - time: "16:45"
+    duration: 25
+    steps: ~
+  - time: "evening"
+    duration: 5
+    steps: ~
+
+strength_training:
+  - time: "8:20-8:35"
+    exercises:
+      - name: biceps curl
+        sets: 3
+        reps: 10
+      - name: lateral raise
+        sets: 3
+        reps: 10
+  - time: "15:50-16:05"
+    exercises:
+      - name: placeholder
+        sets: ~
+        reps: ~
+
+meals:
+  breakfast:
+    - item: ~
+      quantity: ~
+      calories: ~
+      macros:
+        fat: ~
+        carbs: ~
+        protein: ~
+  lunch:
+    - item: ~
+      quantity: ~
+      calories: ~
+      macros:
+        fat: ~
+        carbs: ~
+        protein: ~
+  dinner:
+    - item: ~
+      quantity: ~
+      calories: ~
+      macros:
+        fat: ~
+        carbs: ~
+        protein: ~
+
+snacks:
+  - time: ~
+    item: ~
+    quantity: ~
+    calories: ~
+    macros:
+      fat: ~
+      carbs: ~
+      protein: ~
+
+hydration:
+  - time: morning
+    quantity: ~
+    notes: ~
+  - time: afternoon
+    quantity: ~
+    notes: ~
+  - time: evening
+    quantity: ~
+    notes: ~
+
+notes:
+  - time: ~
+    details: ~
