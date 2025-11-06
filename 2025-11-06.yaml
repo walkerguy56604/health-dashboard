@@ -1,0 +1,133 @@
+/daily_logs
+    2025-11-06.yaml
+    2025-11-07.yaml
+    ...
+    date: 2025-11-06
+
+day_summary:
+  meals:
+    - time: "breakfast"
+      name: ""
+      calories: 0
+      fat: 0
+      saturated_fat: 0
+      trans_fat: 0
+      carbs: 0
+      fiber: 0
+      sugar: 0
+      protein: 0
+      cholesterol: 0
+      sodium: 0
+      notes: ""
+
+    - time: "lunch"
+      name: ""
+      calories: 0
+      fat: 0
+      saturated_fat: 0
+      trans_fat: 0
+      carbs: 0
+      fiber: 0
+      sugar: 0
+      protein: 0
+      cholesterol: 0
+      sodium: 0
+      notes: ""
+
+    - time: "dinner"
+      name: ""
+      calories: 0
+      fat: 0
+      saturated_fat: 0
+      trans_fat: 0
+      carbs: 0
+      fiber: 0
+      sugar: 0
+      protein: 0
+      cholesterol: 0
+      sodium: 0
+      notes: ""
+
+  snacks:
+    - time: "afternoon"
+      name: ""
+      calories: 0
+      fat: 0
+      carbs: 0
+      protein: 0
+      notes: ""
+    - time: "evening"
+      name: ""
+      calories: 0
+      fat: 0
+      carbs: 0
+      protein: 0
+      notes: ""
+
+  drinks:
+    - time: "morning"
+      name: "water + apple cider vinegar (with mother)"
+      volume_ml: 500
+      calories: 5
+      notes: "standard thermos portion"
+    - time: "afternoon"
+      name: ""
+      volume_ml: 0
+      calories: 0
+      notes: ""
+    - time: "evening"
+      name: ""
+      volume_ml: 0
+      calories: 0
+      notes: ""
+
+  exercise:
+    - type: "walk"
+      start_time: "09:00"
+      end_time: ""
+      duration_min: 5
+      steps: 1600
+      notes: "morning walk"
+    - type: "strength training"
+      start_time: "12:00"
+      end_time: ""
+      duration_min: 15
+      reps: "10"
+      sets: "3"
+      notes: "midday session"
+    - type: "walk"
+      start_time: "15:30"
+      end_time: ""
+      duration_min: 5
+      steps: 550
+      notes: "noon 5-min walk"
+    - type: "strength training"
+      start_time: "20:20"
+      end_time: ""
+      duration_min: 15
+      reps: "10"
+      sets: "3"
+      notes: "evening session"
+    - type: "walk"
+      start_time: "21:00"
+      end_time: ""
+      duration_min: 5
+      steps: 575
+      notes: "evening 5-min walk"
+
+  appointments:
+    - type: "Zoom group"
+      time: "18:30-20:00"
+      location: "online"
+      notes: "weekly men’s group"
+
+  health_metrics:
+    - time: "08:00"
+      metric: "blood_pressure"
+      systolic: 0
+      diastolic: 0
+      heart_rate: 0
+      hydration: ""
+      notes: "Friday morning check reminder"
+
+  general_notes: "Daily placeholders pre-filled for routines and meal/snack tracking."
