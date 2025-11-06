@@ -1,115 +1,30 @@
-date: 2025-11-05
-entries:
-  - time: 06:55
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Morning walk before coffee"
-
-  - time: 07:55
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Walk while brewing coffee"
-
-  - time: 08:00
-    activity: "Strength training"
-    duration: 35  # minutes
-    exercises:
-      - name: "Biceps curl"
-        sets: 3
-        reps: 10
-      - name: "Lateral curl"
-        sets: 3
-        reps: 10
-    notes: "Completed morning strength training"
-
-  - time: 08:10
-    activity: "5-minute post-strength walk"
-    duration: 5
-    steps: 550
-    notes: "Walk after strength training"
-
-  - time: 08:55
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Catch-up walk before 9:00"
-
-  - time: 09:00
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Morning walk after strength training"
-
-  - time: 09:30
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Mid-morning walk while updating reminders"
-
-  - time: 12:00
-    activity: "Strength training"
-    duration: 15
-    exercises:
-      - name: "Biceps curl"
-        sets: 3
-        reps: 10
-      - name: "Lateral curl"
-        sets: 3
-        reps: 10
-    notes: "Noon session"
-
-  - time: 12:10
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Post-noon strength walk"
-
-  - time: 13:45
-    activity: "Coffee meetup"
-    duration: 90  # minutes
-    steps: 240
-    notes: "Meeting a friend, no snacks consumed"
-
-  - time: 15:30
-    activity: "5-minute walk"
-    duration: 5
-    steps: 550
-    notes: "Afternoon walk"
-
-  - time: 16:45
-    activity: "25-30 minute walk"
-    duration: 30
-    steps: 2000
-    notes: "Evening walk in the rain"
-
-  - meals:
-      - type: "Coffee"
-        description: "Hazelnut latte silk, oat creamer"
-        amount: "1 tbsp"
-        calories: 25
-        fat: 1
+snacks:
+  - time: "Evening"
+    items:
+      - name: "Silvery Oats Sprouted Grain Bread"
+        quantity: 2  # slices
+        calories: 160
+        fat: 2
+        saturated_fat: 0
+        trans_fat: 0
+        polyunsaturated_fat: 1
+        monounsaturated_fat: 1
+        cholesterol: 0
+        sodium: 230
+        carbs: 26
+        fiber: 3
+        sugar: 3
+        added_sugar: 2
+        protein: 10
+      - name: "Herb & Garlic Cream Cheese"
+        quantity: 2  # tablespoons
+        calories: 80
+        fat: 7
+        saturated_fat: 4.5
+        trans_fat: 0.3
         carbs: 3
-        protein: 0
-      - type: "Lunch"
-        description: "Garlic bread, spaghetti (estimated)"
-        amount: "1/2 loaf, 1 bowl"
-        calories: "estimate"
-      - type: "Dinner"
-        description: "Maple Leaf chicken, broccoli & cheddar"
-        amount: "1 piece 142g"
-        calories: 310
-        fat: 18
-        carbs: 18
-        protein: 19
-  - snacks:
-      - description: "Apple (medium red)"
-        calories: "estimate"
-      - description: "Ice cream or cookie placeholder"
-        calories: "estimate"
-
-  - hydration:
-      - time: 10:00
-        beverage: "Water with apple cider vinegar (1 tbsp)"
-        calories: 5
+        fiber: 0
+        sugar: 2
+        protein: 2
+        cholesterol: 20
+        sodium: 130
