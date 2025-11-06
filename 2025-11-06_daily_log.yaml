@@ -1,55 +1,42 @@
-# Daily Log – Thursday, November 6, 2025
+date: 2025-11-06
+day: Thursday
 
-## Walks
-| Time  | Duration (min) | Steps |
-|-------|----------------|-------|
-| 6:55  | 5              | ~     |
-| 7:55  | 5              | ~     |
-| 8:55  | 5              | ~     |
-| 9:30  | 5              | ~     |
-| 12:10 | 5              | ~     |
-| 16:45 | 25             | ~     |
-| Evening | 5            | ~     |
+morning:
+  - time: "05:45 - 05:50 AM"
+    activity: Morning Walk
+    duration: 5 min
+    steps: 550
+    type: Siri-suggested
+    notes: "Start of day, light warm-up"
 
-## Strength Training
-| Time       | Exercise       | Sets | Reps |
-|------------|----------------|------|------|
-| 8:20-8:35  | Biceps curl    | 3    | 10   |
-| 8:20-8:35  | Lateral raise  | 3    | 10   |
-| 15:50-16:05| Placeholder    | ~    | ~    |
+  - time: "06:00 AM"
+    activity: Hydration
+    details:
+      drink: "Water with 1 tbsp apple cider vinegar (with mother)"
+      calories: 5
+    notes: "Early morning routine for hydration and digestion"
 
-## Meals
-**Breakfast**
-- Item: ~  
-- Quantity: ~  
-- Calories: ~  
-- Macros: Fat: ~ | Carbs: ~ | Protein: ~  
+  - time: "06:45 - 06:50 AM"
+    activity: Morning Walk #2
+    duration: 5 min
+    steps: 550
+    type: Non-Siri
+    notes: "Second short walk of the morning"
 
-**Lunch**
-- Item: ~  
-- Quantity: ~  
-- Calories: ~  
-- Macros: Fat: ~ | Carbs: ~ | Protein: ~  
+  - time: "07:30 - 08:00 AM"
+    activity: Breakfast
+    details: "TBD"
+    calories: "TBD"
 
-**Dinner**
-- Item: ~  
-- Quantity: ~  
-- Calories: ~  
-- Macros: Fat: ~ | Carbs: ~ | Protein: ~  
+  - time: "09:00 - 09:05 AM"
+    activity: Mid-Morning Walk
+    duration: 5 min
+    steps: 550
+    notes: "Gentle refresher walk"
 
-## Snacks
-| Time | Item | Quantity | Calories | Fat | Carbs | Protein |
-|------|------|---------|----------|-----|-------|---------|
-| ~    | ~    | ~       | ~        | ~   | ~     | ~       |
-
-## Hydration
-| Time      | Quantity | Notes |
-|-----------|----------|-------|
-| Morning   | ~        | ~     |
-| Afternoon | ~        | ~     |
-| Evening   | ~        | ~     |
-
-## Notes
-| Time | Details |
-|------|---------|
-| ~    | ~       |
+  - time: "12:00 - 12:15 PM"
+    activity: Strength Training
+    details:
+      exercises: "TBD"
+      sets_reps: "TBD"
+    notes: "Followed by a 5-min walk (~550 steps)"
