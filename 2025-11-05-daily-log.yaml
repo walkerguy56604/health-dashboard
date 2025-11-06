@@ -61,6 +61,7 @@ activity:
       time_end: "03:35 PM"
       steps_est: 550
       notes: "5-minute walk; very light, afternoon walk."
+
   strength_training:
     - time: "08:00 AM"
       duration_min: 25
@@ -73,11 +74,12 @@ activity:
         - bicep curls
         - lateral raises
     - time: "03:50 PM"
-      duration_min: "TBD"
+      duration_min: 15
       exercises:
         - bicep curls
         - lateral raises
-        # add any additional exercises you do
+        # add any additional exercises you did
+
   outing_1:
     time_start: "01:45 PM"
     time_end: "03:15 PM"
@@ -90,7 +92,7 @@ evening:
     - time_start: "TBD"
       time_end: "TBD"
       steps_est: "TBD"
-      notes: "Evening walk or light activity; details to be filled in later after Zoom call."
+      notes: "Short walk after last strength training round; details to be filled in later."
   meals:
     - name: "Additional snacks or desserts"
       calories: "TBD"
