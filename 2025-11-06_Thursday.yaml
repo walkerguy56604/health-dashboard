@@ -1,91 +1,31 @@
 date: 2025-11-06
-day: Thursday
-
-walks:
-  - time: "6:55"
-    duration: 5
-    steps: ~
-  - time: "7:55"
-    duration: 5
-    steps: ~
-  - time: "8:55"
-    duration: 5
-    steps: ~
-  - time: "9:30"
-    duration: 5
-    steps: ~
-  - time: "12:10"
-    duration: 5
-    steps: ~
-  - time: "16:45"
-    duration: 25
-    steps: ~
-  - time: "evening"
-    duration: 5
-    steps: ~
-
-strength_training:
-  - time: "8:20-8:35"
-    exercises:
-      - name: biceps curl
-        sets: 3
-        reps: 10
-      - name: lateral raise
-        sets: 3
-        reps: 10
-  - time: "15:50-16:05"
-    exercises:
-      - name: placeholder
-        sets: ~
-        reps: ~
-
-meals:
-  breakfast:
-    - item: ~
-      quantity: ~
-      calories: ~
-      macros:
-        fat: ~
-        carbs: ~
-        protein: ~
-  lunch:
-    - item: ~
-      quantity: ~
-      calories: ~
-      macros:
-        fat: ~
-        carbs: ~
-        protein: ~
-  dinner:
-    - item: ~
-      quantity: ~
-      calories: ~
-      macros:
-        fat: ~
-        carbs: ~
-        protein: ~
-
-snacks:
-  - time: ~
-    item: ~
-    quantity: ~
-    calories: ~
-    macros:
-      fat: ~
-      carbs: ~
-      protein: ~
-
-hydration:
-  - time: morning
-    quantity: ~
-    notes: ~
-  - time: afternoon
-    quantity: ~
-    notes: ~
-  - time: evening
-    quantity: ~
-    notes: ~
-
-notes:
-  - time: ~
-    details: ~
+time: "21:02"
+reading:
+  systolic: 124
+  diastolic: 68
+  pulse: 95
+  hypertension_level: "Low 🟢"
+activity:
+  walk: "3 + 5 min evening walks"
+  strength_training: "14 min seated routine"
+nutrition:
+  snack: "64g noodle bowl"
+  calories: 300
+  sodium_mg: 1710
+  notes: "High sodium but balanced day overall"
+weight:
+  last_recorded: "150 lbs (Oct 30)"
+summary:
+  day_score: "Balanced 🟢"
+  remarks: "Excellent recovery trend after walk; consistent pressure range."
+  context:
+    - "Post-walk BP at 9:02 PM marked end of activity cycle."
+    - "Maintaining strong routine before tomorrow’s AM readings."
+meta:
+  source: "GitHub app via iPad"
+  commit_ready: true
+  integrations_planned:
+    - "VectorDB + DuckDB sync"
+    - "GitLab mirrored backup"
+    - "Color-coded BP visualization"
+  next_action: "Commit tonight and prepare morning log for Nov 7"
