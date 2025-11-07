@@ -1,42 +1,51 @@
+schema_version: "1.1.0"
+schema_url: "https://example.com/schemas/daily-log-v1.1.0.yaml"
 date: 2025-11-06
-day: Thursday
+verified_by: "GPT-5 draft (Mark review pending)"
 
-morning:
-  - time: "05:45 - 05:50 AM"
-    activity: Morning Walk
-    duration: 5 min
-    steps: 550
-    type: Siri-suggested
-    notes: "Start of day, light warm-up"
+summary:
+  total_walks: 3
+  total_steps_est: 4100
+  total_strength_sessions: 1
+  total_calories_est: 875
+  notes: "Includes 5-min walk at 3:50 PM, spaghetti lunch, apple snack, and protein bar."
 
-  - time: "06:00 AM"
-    activity: Hydration
-    details:
-      drink: "Water with 1 tbsp apple cider vinegar (with mother)"
-      calories: 5
-    notes: "Early morning routine for hydration and digestion"
+activities:
+  - time: "10:14 AM"
+    type: "walk"
+    duration: "10 min"
+    est_steps: 800
+    est_calories: 40
+  - time: "12:19 PM"
+    type: "strength training"
+    duration: "session"
+    est_calories: 200
+  - time: "2:05 PM"
+    type: "walk"
+    duration: "25-30 min"
+    est_steps: 1800
+    est_calories: 130
+  - time: "3:50 PM"
+    type: "walk"
+    duration: "5 min"
+    est_steps: 500
+    est_calories: 30
 
-  - time: "06:45 - 06:50 AM"
-    activity: Morning Walk #2
-    duration: 5 min
-    steps: 550
-    type: Non-Siri
-    notes: "Second short walk of the morning"
+meals:
+  breakfast:
+    - item: "Coffee with Silk Oat Hazelnut Creamer"
+      calories: 25
+      notes: "1 tbsp Silk oat dairy-free creamer"
+  lunch:
+    - item: "Spaghetti (half bowl with tomato sauce)"
+      calories: 350
+  snack:
+    - item: "Medium red apple"
+      calories: 80
+    - item: "Protein bar (caramel & cashew, 55g)"
+      calories: 210
 
-  - time: "07:30 - 08:00 AM"
-    activity: Breakfast
-    details: "TBD"
-    calories: "TBD"
-
-  - time: "09:00 - 09:05 AM"
-    activity: Mid-Morning Walk
-    duration: 5 min
-    steps: 550
-    notes: "Gentle refresher walk"
-
-  - time: "12:00 - 12:15 PM"
-    activity: Strength Training
-    details:
-      exercises: "TBD"
-      sets_reps: "TBD"
-    notes: "Followed by a 5-min walk (~550 steps)"
+placeholders:
+  dinner: "To be added"
+  hydration: "To be updated"
+  evening_activity: "To be added"
