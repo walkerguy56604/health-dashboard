@@ -1,0 +1,33 @@
+date: 2025-11-07
+time: "" # Fill in AM reading time
+reading:
+  systolic: 
+  diastolic: 
+  pulse: 
+  hypertension_level: "" # Low 🟢 / Medium 🟡 / High 🟥
+activity:
+  walk: ""
+  strength_training: ""
+nutrition:
+  meal: ""
+  calories: 
+  fat_g: 
+  carbs_g: 
+  protein_g: 
+  sodium_mg: 
+  notes: ""
+weight:
+  last_recorded: "" # lbs
+summary:
+  day_score: "" # Balanced 🟢 / Moderate 🟡 / Alert 🔴
+  remarks: ""
+  context: 
+    - ""
+meta:
+  source: "GitHub app via iPad"
+  commit_ready: true
+  integrations_planned:
+    - "VectorDB + DuckDB sync"
+    - "GitLab mirrored backup"
+    - "Color-coded BP visualization"
+  next_action: "Fill in daily log after AM readings and commit"
