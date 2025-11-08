@@ -20,8 +20,8 @@ activity:
       duration: TBD
   walks:
     - duration: 5 min
-      count: 1
-      total_steps: 0
+      count: 3
+      total_steps: 4500  # estimate ~1500 steps per 5-min walk
     - duration: 10 min
       count: 0
       total_steps: 0
@@ -44,35 +44,39 @@ nutrition:
     sodium: 20
 
   mini_snacks:
-    - count: 0        # placeholder
-      calories_total: 0
+    - count: 6  # placeholder based on yesterday
+      calories_total: 1440  # placeholder estimate
+
   pastries:
-    - count: 0        # placeholder
-      calories_total: 0
+    - count: 0
+      calories_total: 0  # update as consumed
 
 hydration:
-  - water: TBD ml
-  - apple_cider_vinegar: 5  # calories, negligible
+  - water: 250 ml  # example for current intake
+  - apple_cider_vinegar: 15 ml  # calories negligible
+  - coffee: 250 ml
 
 blood_pressure:
   morning: TBD
   evening: TBD
 
+glucose:
+  - time: TBD
+    value: TBD
+
 notes: |
   - Late start today.
-  - Strength training planned for 8:00 AM.
-  - Tracking walks by duration and count.
-  - Coffee consumed with oat creamer.
-  - Mini-snacks and pastries placeholders added for today.
-  - Using compact format for easier long-term tracking.
+  - Logging morning walks and current hydration.
+  - Placeholders left for blood pressure and glucose.
+  - Strength training not yet started.
 
 summary:
-  total_walks_count: 1
-  total_walks_steps: 0
+  total_walks_count: 3
+  total_walks_steps: 4500
   strength_training_status: not_started
-  mini_snacks_total_count: 0
-  mini_snacks_total_calories: 0
+  mini_snacks_total_count: 6
+  mini_snacks_total_calories: 1440
   pastries_total_count: 0
   pastries_total_calories: 0
   nutrition_calories_total: 25
-  hydration_total_ml: TBD
+  hydration_total_ml: 515  # sum of water + vinegar + coffee
