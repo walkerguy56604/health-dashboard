@@ -1,33 +1,101 @@
 date: 2025-11-07
-time: "" # Fill in AM reading time
-reading:
-  systolic: 
-  diastolic: 
-  pulse: 
-  hypertension_level: "" # Low 🟢 / Medium 🟡 / High 🟥
-activity:
-  walk: ""
-  strength_training: ""
-nutrition:
-  meal: ""
-  calories: 
-  fat_g: 
-  carbs_g: 
-  protein_g: 
-  sodium_mg: 
-  notes: ""
-weight:
-  last_recorded: "" # lbs
+label: Friday Weekend Treat Day
 summary:
-  day_score: "" # Balanced 🟢 / Moderate 🟡 / Alert 🔴
-  remarks: ""
-  context: 
-    - ""
-meta:
-  source: "GitHub app via iPad"
-  commit_ready: true
-  integrations_planned:
-    - "VectorDB + DuckDB sync"
-    - "GitLab mirrored backup"
-    - "Color-coded BP visualization"
-  next_action: "Fill in daily log after AM readings and commit"
+  meals:
+    breakfast:
+      description: Standard breakfast (details not specified)
+      notes: Estimated
+    lunch:
+      description: Chinese food – rice, chow mein, unsweetened sweet and sour chicken balls
+      notes: High sodium, high calories, estimate only
+    snack_1:
+      description: Split turkey sandwich (white bread, butter, mayo, half sandwich)
+      notes: Nutrition unknown
+    snack_2:
+      description: Chicken strips
+      quantity: 1-2 strips
+      nutrition:
+        calories: 120
+        fat: 2
+        sat_fat: 0.5
+        trans_fat: 0
+        carbs: 4
+        fiber: 0
+        sugar: 0
+        protein: 22
+        cholesterol: 45
+        sodium: 380
+    snack_3:
+      description: Mini Chocolate Teens
+      quantity: 6
+      nutrition_per_two:
+        calories: 240
+        fat: 13
+        sat_fat: 8
+        trans_fat: 0.3
+        carbs: 27
+        fiber: 2
+        sugar: 8
+        protein: 4
+        cholesterol: 30
+        sodium: 230
+    dinner:
+      description: None / merged with snacks
+      notes: Estimated high sodium/calories from earlier Chinese food
+  hydration:
+    description: Maintained throughout the day
+    notes: Essential
+  strength_training:
+    morning_session:
+      start: 12:29
+      end: 12:29
+      exercises:
+        - laterals
+        - biceps (3 sets of 10 each)
+      notes: Feeling energetic, mild fatigue
+    afternoon_session:
+      start: 16:00
+      end: 16:30
+      exercises:
+        - details not specified
+      notes: Completed
+    evening_session:
+      start: 20:08
+      end: 20:23
+      exercises:
+        - strength training routine (details unspecified)
+      notes: Enjoyable
+  walks:
+    total_steps: 10000+
+    sessions:
+      - time: 07:00-07:05
+        steps: 550
+      - time: 07:25-07:30
+        steps: 600
+      - time: 13:05-13:10
+        steps: 300
+      - time: 17:05-17:45
+        steps: 3200
+      - time: 17:50-17:55
+        steps: 500
+      - time: 17:55-18:10
+        steps: 2800
+      - time: 18:10-18:20
+        steps: 2900
+      - time: 20:25-20:30
+        steps: 500
+      - time: 20:59-21:04
+        steps: 550
+  blood_pressure:
+    morning: null
+    midday: null
+    evening:
+      systolic: 120
+      diastolic: 69
+      heart_rate: 94
+      hypertension: medium
+  notes:
+    - Weekend treat day – included pastries and sweets
+    - All meals, snacks, walks, and training consolidated
+    - Some meal nutrition estimates only (restaurant Chinese food)
+    - Overall active day with strength training and multiple walks
