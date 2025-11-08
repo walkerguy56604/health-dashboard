@@ -38,6 +38,15 @@
 
 ---
 
+## Weekend Treats
+- **Mini Chocolate Treats** — 6 pieces  
+- **Chinese Restaurant Meal** — sweet & sour chicken balls, rice, chow mein  
+- **Pastry / Dessert items** — included in snacks above  
+
+> This section highlights foods that are considered special indulgences for the weekend. Useful for comparing to baseline reference days like October 29, 2025.
+
+---
+
 ## Hydration
 
 - Adequate water intake throughout day
@@ -142,6 +151,10 @@ meals:
       protein_g: 4
       cholesterol_mg: 30
       sodium_mg: 230
+weekend_treats:
+  - Mini Chocolate Treats
+  - Chinese Restaurant Meal
+  - Pastry/Dessert items
 hydration:
   adequate: true
 blood_pressure:
