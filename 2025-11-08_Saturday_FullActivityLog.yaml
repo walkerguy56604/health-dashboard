@@ -1,79 +1,47 @@
-date: 2025-11-08
-day: Saturday
-activity:
-  walks:
-    "5_minute": 
-      count: 3
-      total_steps: 4500
-    "10_minute":
-      count: 2
-      total_steps: 4000
-    "30-60_minute":
-      count: 2
-      total_steps: 12000   # updated to include your additional 30-minute walk
-  strength_training:
-    total_minutes: 14
-    notes: ""
-
 nutrition:
   breakfast:
-    - item: "Oatmeal with honey"
-      quantity: "1/3 cup + 1 tbsp honey"
-      calories: 200  # approx
-      fats: 2.5
-      carbs: 26
-      protein: 6
-    - item: "Peanut butter"
-      quantity: "1 tbsp"
+    - item: "Oatmeal, 1/3 cup"
+      calories: 140
+      fat_g: 2.5
+      saturated_g: 0.5
+      trans_g: 0
+      carbs_g: 26
+      fiber_g: 4
+      soluble_fiber_g: 2
+      insoluble_fiber_g: 2
+      sugar_g: 0
+      protein_g: 6
+      cholesterol_mg: 0
+      sodium_mg: 0
+    - item: "Peanut Butter, 1 tbsp"
       calories: 90
-      fats: 8
-      carbs: 3
-      protein: 3
-  snacks: []
+      fat_g: 8
+      saturated_g: 2
+      trans_g: 0
+      carbs_g: 3
+      fiber_g: 1
+      sugar_g: 1
+      protein_g: 3
+      cholesterol_mg: 0
+      sodium_mg: 60
+  snacks:
+    - item: "Carrot, 1"
+      calories: 25
+      notes: "Snack"
+    - item: "Leftover Chinese food"
+      calories: null
+      notes: "Chicken chow mein, rice, peas, no MSG, unknown calories"
   mini_snacks: []
   pastries:
-    - item: "TBD"
-      quantity: ""
-      calories: 0
+    - item: "Mini Chocolate Teen, 1 piece"
+      calories: 120
+      fat_g: 6.5
+      saturated_g: 4
+      trans_g: 0.15
+      carbs_g: 13.5
+      fiber_g: 1
+      sugar_g: 4
+      protein_g: 2
+      cholesterol_mg: 15
+      sodium_mg: 115
   other: []
-
-hydration:
-  water_ml: 0
-  coffee_ml: 0
-  other_drinks: []
-
-blood_pressure:
-  morning: 
-    systolic: null
-    diastolic: null
-    pulse: null
-    notes: ""
-  evening: 
-    systolic: null
-    diastolic: null
-    pulse: null
-    notes: ""
-
-glucose: []
-
-notes: |
-  # Observations, comments, or extra info
-  - Wonderful family news: wife's nephew's wife is pregnant!
-  - Additional 30-minute walk completed
-  - Pastry consumed, details to be updated
-
-rolling_totals:
-  steps: 20500   # updated total including new 30-minute walk
-  strength_minutes: 14
-  calories: 290  # breakfast + placeholder, pastry to be added
-
-historical_reference:
-  2025-11-07:
-    mini_snacks:
-      count: 6
-      total_calories: 1440
-    pastries:
-      count: 0
-      total_calories: 0
-    total_steps: 10000
-    strength_minutes: 30
