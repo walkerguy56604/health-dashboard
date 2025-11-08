@@ -1,0 +1,55 @@
+date: 2025-11-08
+day: Saturday
+summary: Full Activity and Treat Log
+
+activity:
+  walks:
+    total_minutes: 30
+    sessions:
+      - 3:10-3:15 AM
+      - 5:25-5:30 AM
+      - 6:55-7:00 AM
+      - 7:00-7:05 PM
+      - 7:25-7:30 PM
+      - 8:25-8:30 PM
+      - 9:55-10:00 PM
+    total_steps_estimate: 10000
+  strength_training:
+    sessions:
+      - 8:08-8:23 PM
+
+nutrition:
+  drinks:
+    - coffee_with_hazelnut: 1 tbsp
+    - water_with_apple_cider_vinegar: minimal calories
+  snacks:
+    mini_chocolate_teens:
+      count: 6
+      per_item:
+        weight_g: 56
+        calories: 240
+        fat_g: 13
+        saturated_g: 8
+        trans_g: 0.3
+        carbs_g: 27
+        fiber_g: 2
+        sugar_g: 8
+        protein_g: 4
+        cholesterol_mg: 30
+        sodium_mg: 230
+      total_calories: 1440
+  meals:
+    - description: Chinese meal
+      # Add calories/macros if available
+
+blood_pressure:
+  evening:
+    systolic: 120
+    diastolic: 69
+    pulse: 94
+    hypertension_level: medium
+
+notes:
+  - weekend treat day
+  - minor fasting adjustment with apple cider vinegar
+  - compact summary for easier tracking
