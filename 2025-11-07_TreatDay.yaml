@@ -1,99 +1,58 @@
 date: 2025-11-07
 label: Weekend Treat Day
-summary: >
-  Full day of activity, meals, snacks, and hydration.
-  Steps merged from all walks; strength training completed; weekend treats included.
-  
-activity:
-  steps_total: 29500  # approximate cumulative steps from all walks
-  walks:
-    - duration: 40min
-      steps: 4000
-      note: Walk and store visit
-    - duration: 5min
-      steps: 300
-      note: Coffee stop
-    - duration: 5min
-      steps: 500
-      note: Evening walks, merged
-  strength_training:
-    - session: Morning
-      start: 11:48
-      end: 12:29
-      exercises:
-        - biceps: 3 sets x 10 reps
-        - lateral_raises: 3 sets x 10 reps
-      feeling: energetic, slight fatigue
-    - session: Evening
-      start: 20:08
-      end: 20:23
-      exercises:
-        - biceps: 3 sets x 10 reps
-        - lateral_raises: 3 sets x 10 reps
-      feeling: energetic, slight fatigue
-  additional_walks:
-    - duration: 5min
-      time: 20:25-20:30
-      note: Evening cooldown walk
+summary: Full day log including meals, snacks, walks, strength training, hydration, and estimated calories.
 
 meals:
-  breakfast:
-    - item: Coffee
-      notes: Black
-    - item: Mini chocolate treats
-      quantity: 6
-      nutrition_per_unit:
-        calories: 240
-        fat: 13
-        saturated_fat: 8
-        carbs: 27
-        fiber: 2
-        sugar: 8
-        protein: 4
-        cholesterol: 30
-        sodium: 230
-  snack:
-    - item: Carrot & apple
-      notes: partial carrot
-    - item: Turkey sandwich
-      portion: half
-      notes: white bread, butter, mayonnaise
-    - item: Coffee with hazelnut creamer
-  lunch_dinner_estimate:
-    - item: Chinese restaurant meal
-      components:
-        - sweet_sour_chicken_balls: unsweetened
-        - rice
-        - chow_mein
-      notes: high calorie, high sodium, estimates only
-  snack_evening:
-    - item: Chicken strips
-      portion: 2 out of 4 strips
-      nutrition_per_100g:
-        calories: 240
-        fat: 13
-        saturated_fat: 8
-        trans_fat: 0.3
-        carbs: 27
-        fiber: 2
-        sugar: 8
-        protein: 4
-        cholesterol: 30
-        sodium: 230
+  lunch:
+    description: Chinese food – rice, chow mein, unsweetened sweet & sour chicken balls (no sauce)
+    estimate:
+      calories: 900
+      sodium: high
+  snack_1:
+    description: Half turkey sandwich (white bread, butter, mayonnaise, turkey)
+    estimate:
+      calories: 250
+  snack_2:
+    description: Chicken strips (1-2 strips)
+    estimate:
+      calories: 180
+  snack_3:
+    description: Mini Chocolate Teens – 6 pieces (2 pieces = 240 kcal)
+    estimate:
+      calories: 720
 
 hydration:
-  notes: Adequate water intake throughout day
+  description: Adequate water intake throughout the day
+
+exercise:
+  strength_training:
+    biceps_lateral:
+      sets: 3
+      reps: 10
+      feeling: energetic, slight fatigue
+    duration: 15 minutes
+  walks:
+    total_steps: 10,000+
+    details:
+      - time: morning walk, steps: 3,200
+      - time: store walk, steps: 4,000
+      - time: second walk, steps: 2,800 + 500
+      - time: evening walk, steps: 3,200
+      - time: last walk, steps: 5-minute estimate included in total
 
 blood_pressure:
-  morning: null
+  morning:
+    systolic: TBD
+    diastolic: TBD
+    heart_rate: TBD
   evening:
     systolic: 120
     diastolic: 69
     heart_rate: 94
     hypertension: medium
 
-notes:
-  - Total steps approximate, merged from all walks
-  - Weekend treat day: higher calorie/snack intake included
-  - Strength training completed: morning and evening sessions
-  - Meals mostly estimated where restaurant nutrition unknown
+total_estimates:
+  calories: 2,050
+  steps: 10,000+
+  sodium: high
+  notes: "Chinese food and treats contribute to high sodium and sugar intake, treats included as part of weekend indulgence."
