@@ -1,57 +1,52 @@
 date: 2025-11-08
 day: Saturday
-activities:
+activity:
   walks:
-    "5_min": 
-      count: 3
-      total_steps: 4500  # estimate: 1500 steps each
-    "10_min": 
-      count: 1
-      total_steps: 2500  # estimate
-    "30-60_min": 
+    "5_minute": 
+      count: 1  # update as you do more
+      total_steps: 1500  # estimate; update as needed
+    "10_minute":
+      count: 0
+      total_steps: 0
+    "30-60_minute":
       count: 0
       total_steps: 0
   strength_training:
-    sessions: 0
-    duration_min: 0
+    sessions:
+      - start_time: 07:00  # update if different
+        duration_minutes: 0  # update after session
+        notes: ""  # optional, exercises, intensity
+
 nutrition:
-  breakfast: 
-    - item: "Silk Hazelnut Latte Oat Creamer"
-      quantity: 15ml
-      calories: 25
-      fat: 1
-      saturated: 0.1
-      trans: 0
-      carbs: 3
-      fiber: 0
-      sugar: 3
-      protein: 0
-      cholesterol: 0
-      sodium: 20
-  mini_snacks:
-    placeholder: true
-  pastries:
-    placeholder: true
+  breakfast: []
+  snacks: []
+  mini_snacks: []
+  pastries: []
+  other: []
+
 hydration:
-  water_ml: 250
-  apple_cider_vinegar_ml: 15
+  water_ml: 0
+  coffee_ml: 0
+  other_drinks: []
+
 blood_pressure:
-  morning:
+  morning: 
     systolic: null
     diastolic: null
-    heart_rate: null
-  evening:
+    pulse: null
+    notes: ""
+  evening: 
     systolic: null
     diastolic: null
-    heart_rate: null
-glucose:
-  fasting: null
+    pulse: null
+    notes: ""
+
+glucose: []
+
 notes: |
-  - Rolling totals and historical comparisons are active.
-  - Placeholders added for mini-snacks and pastries from yesterday.
-  - Strength training and additional walks will be updated as completed.
+  # Place for any observations, comments, or extra info
+
 rolling_totals:
-  total_steps_today: 7000  # cumulative of above
-  total_calories_today: 25
-  total_water_ml: 250
-  total_walk_count: 4  # sum of all walks
+  steps: 0
+  strength_minutes: 0
+  calories: 0
