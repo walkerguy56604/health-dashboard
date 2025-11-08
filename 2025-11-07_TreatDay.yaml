@@ -1,60 +1,58 @@
----
 date: 2025-11-07
-day_type: "Weekend Treat Day"
-summary: "Full activity + treat day; multiple walks, strength training sessions, meals, snacks, hydration, and blood pressure tracked."
-hydration: true
-
-activity:
-  total_steps: 10000+
-  notes: "All walks combined: morning, midday, afternoon, evening, and short 5-10 min walks included."
-
+label: "Weekend Treat Day"
+total_steps: 10200  # accumulated steps from all walks
 strength_training:
   sessions:
-    - time: "11:48-12:29"
+    - start: "12:00"
+      end: "12:29"
       exercises:
-        - name: "Laterals"
+        - name: "Lateral Raises"
           sets: 3
           reps: 10
-        - name: "Biceps"
+        - name: "Biceps Curls"
           sets: 3
           reps: 10
-      feelings: "Energetic, slight fatigue, elevated heart rate post-workout"
-    - time: "16:00-16:15"
+    - start: "16:00"
+      end: "16:15"
       exercises:
-        - name: "Biceps/Laterals"
+        - name: "Biceps Curls"
           sets: 3
           reps: 10
-    - time: "20:08-20:23"
-      exercises: "Final session of the day"
-
-meals_snacks:
+        - name: "Lateral Raises"
+          sets: 3
+          reps: 10
+    - start: "20:08"
+      end: "20:23"
+      exercises:
+        - name: "Mixed Routine"
+          duration: 15  # minutes
+walks:
+  - duration_total: 85  # total minutes from all walks
+  - steps_total: 10200
+meals:
+  breakfast:
+    items:
+      - name: "Carrot"
+        portion: "partial"
+      - name: "Apple"
+        portion: "1"
   lunch:
-    item: "Chinese food (restaurant estimate)"
-    description: "Sweet and sour chicken balls (unsweetened), rice, chow mein"
-    notes: "High calorie, high sodium, estimated"
-  social_snack:
-    item: "Turkey sandwich (half)"
-    description: "White bread with butter & mayonnaise"
-    drink: "Coffee with 1 tbsp hazelnut creamer"
-  evening_snack:
-    item: "Chicken strips"
-    portion: "1-2 strips out of 4"
-    nutrition_per_4_strips: 
-      calories: 120
-      fat: 2
-      saturated: 0.5
-      trans: 0
-      carbs: 4
-      fiber: 0
-      sugar: 0
-      protein: 22
-      cholesterol: 45
-      sodium: 380
-  treats:
-    item: "Mini Chocolate Teens"
+    items:
+      - name: "Turkey sandwich"
+        portion: "half"
+        notes: "White bread, butter, mayonnaise"
+  dinner:
+    items:
+      - name: "Chinese food (restaurant)"
+        items:
+          - "Rice"
+          - "Chow Mein"
+          - "Sweet & Sour Chicken Balls (unsweetened)"
+        notes: "High sodium, estimated calories"
+snacks:
+  - name: "Mini Chocolate Teens"
     quantity: 6
-    nutrition_per_2_pieces:
-      weight_g: 56
+    nutrition:
       calories: 240
       fat: 13
       saturated: 8
@@ -65,17 +63,29 @@ meals_snacks:
       protein: 4
       cholesterol: 30
       sodium: 230
-
+  - name: "Chicken strips"
+    quantity: 2  # estimated portion eaten
+    nutrition:
+      calories: 120
+      fat: 2
+      saturated: 0.5
+      trans: 0
+      carbs: 4
+      fiber: 0
+      sugar: 0
+      protein: 22
+      cholesterol: 45
+      sodium: 380
+hydration:
+  water: "adequate"
 blood_pressure:
-  evening:
+  - time: "evening"
     systolic: 120
     diastolic: 69
     pulse: 94
-    hypertension: "medium"
-
-calorie_estimate:
-  lunch: "High, Chinese restaurant style, unsweetened"
-  social_snack: "Moderate, one half sandwich"
-  evening_snack: 120
-  treats: 720  # 6 pieces x 120 calories per 2 pieces
-  total_estimate: "Approx. 1000+ (restaurant meal not precisely counted)"
+    hypertension_level: "medium"
+notes:
+  - "Fun treat day with weekend snacks."
+  - "Total steps ~10,200."
+  - "Multiple strength sessions and walks."
+  - "Chinese food dinner was high sodium; portions estimated."
