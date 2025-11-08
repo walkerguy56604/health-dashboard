@@ -3,19 +3,19 @@ day: Saturday
 activity:
   walks:
     "5_minute": 
-      count: 1  # update as you do more
-      total_steps: 1500  # estimate; update as needed
+      count: 3
+      total_steps: 4500
     "10_minute":
-      count: 0
-      total_steps: 0
+      count: 2
+      total_steps: 4000
     "30-60_minute":
-      count: 0
-      total_steps: 0
+      count: 1
+      total_steps: 6000
   strength_training:
     sessions:
-      - start_time: 07:00  # update if different
-        duration_minutes: 0  # update after session
-        notes: ""  # optional, exercises, intensity
+      - start_time: 07:00
+        duration_minutes: 0
+        notes: ""
 
 nutrition:
   breakfast: []
@@ -44,9 +44,20 @@ blood_pressure:
 glucose: []
 
 notes: |
-  # Place for any observations, comments, or extra info
+  # Observations, comments, or extra info
 
 rolling_totals:
-  steps: 0
+  steps: 14500
   strength_minutes: 0
   calories: 0
+
+historical_reference:
+  2025-11-07:
+    mini_snacks:
+      count: 6
+      total_calories: 1440  # example, 6 x 240 calories
+    pastries:
+      count: 0
+      total_calories: 0
+    total_steps: 10000  # yesterday's total steps
+    strength_minutes: 30
