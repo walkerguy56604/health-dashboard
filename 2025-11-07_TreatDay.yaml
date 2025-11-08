@@ -1,0 +1,79 @@
+date: 2025-11-07
+label: Fun Treat Day
+summary: |
+  Full activity and treat day log. Multiple walks, strength training, snacks, and meals logged with estimates.
+steps:
+  - time: "8:51-9:20"
+    description: Morning walk, picking up meds and quick walk
+    estimated_steps: 3000
+  - time: "9:20-9:50"
+    description: Store and neighborhood walk
+    estimated_steps: 1000  # included in total 4000
+  - time: "13:05-13:10"
+    description: Short midday walk
+    estimated_steps: 600
+  - time: "13:42-14:22"
+    description: Afternoon walk + coffee with friend
+    estimated_steps: 2600
+  - time: "14:22-14:25"
+    description: Walk from coffee shop to home
+    estimated_steps: 300
+  - time: "17:05-17:48"
+    description: Evening walk
+    estimated_steps: 3200
+  - time: "19:00-19:05"
+    description: Short 5-min walk
+    estimated_steps: 550
+  - time: "19:25-19:30"
+    description: Short 5-min walk
+    estimated_steps: 600
+  - time: "20:25-20:30"
+    description: 5-min walk post strength training
+    estimated_steps: 550
+  - time: "20:30-20:35"
+    description: Additional 5-min walk
+    estimated_steps: 550
+  - time: "20:59-21:04"
+    description: Final 5-min walk
+    estimated_steps: 550
+total_estimated_steps: 18750
+strength_training:
+  - time: "11:50-12:29"
+    description: Strength training session (laterals, biceps)
+    rounds: 3
+    feeling: energetic with mild fatigue
+  - time: "16:00-16:30"
+    description: Afternoon strength training session
+    rounds: 3
+    feeling: energetic with mild fatigue
+  - time: "20:08-20:23"
+    description: Evening strength training session
+    rounds: 3
+    feeling: energetic with mild fatigue
+meals_snacks:
+  - time: "11:45"
+    description: Snack - part of carrot and apple
+    estimated_calories: low
+  - time: "13:15"
+    description: Shared half turkey sandwich with friend (white bread, butter, mayo, turkey)
+    estimated_calories: medium
+  - time: "12:29"
+    description: Lunch - Chinese food (rice, chow mein, unsweetened sweet & sour chicken balls)
+    estimated_calories: high
+    sodium: high
+  - time: "17:50"
+    description: Snack - chicken strips (1-2 of 4 strips)
+    calories: 30-60% of 240
+  - time: Throughout day
+    description: Mini Chocolate Teens pastries, 6 consumed
+    calories_per_unit: 240
+    total_calories_estimated: 1440
+    note: treat day indulgence
+  - time: "19:10"
+    description: Coffee with 1 tbsp hazelnut creamer
+    calories: low
+hydration:
+  - note: Maintain throughout day
+notes:
+  - Weekend treat day, fun indulgence, tracked steps and activity
+  - All steps, snacks, and strength training included for comparison to October 29 reference
