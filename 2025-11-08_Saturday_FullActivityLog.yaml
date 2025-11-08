@@ -1,33 +1,60 @@
 date: 2025-11-08
 day: Saturday
-activities:
-  walks:
-    - start: 3:10 AM
-      end: 3:15 AM
-      duration: 5 min
-    - start: 5:25 AM
-      end: 5:30 AM
-      duration: 5 min
-    - start: 6:55 AM
-      end: 7:00 AM
-      duration: 5 min
+summary_type: FullActivityLog
+
+historical_reference:
+  2025-11-07:
+    walks_total_steps: 10000
+    mini_snacks_total: 6
+    pastries_total_calories: 1440
+    strength_training: completed
+    notes: |
+      - Full activity logged as "Weekend Treat Day"
+      - Total steps include all walks throughout the day
+      - Snacks and pastries are summed for reference
+
+activity:
   strength_training:
-    - start: TBD
-      end: TBD
+    - status: not_started
+      planned_time: "8:00 AM"
       duration: TBD
-meals_snacks:
-  coffee:
-    - type: silk hazelnut latte oat creamer
-      serving: 1 tbsp (15 mL)
-      calories: 25
-      fat: 1
-      saturated_fat: 0.1
-      trans_fat: 0
-      carbs: 3
-      fiber: 0
-      sugar: 3
-      protein: 0
-      cholesterol: 0
-      sodium: 20
-blood_pressure: []
-notes: "Late start today, strength training not yet done."
+  walks:
+    - duration: 5 min
+      count: 1        # placeholder for first walk done
+      total_steps: 0  # update as you track steps
+    - duration: 10 min
+      count: 0
+      total_steps: 0
+    - duration: 30-60 min
+      count: 0
+      total_steps: 0
+
+nutrition:
+  - item: silk hazelnut latte oat creamer
+    serving: 1 tbsp (15ml)
+    calories: 25
+    fat: 1
+    sat_fat: 0.1
+    trans: 0
+    carbs: 3
+    fiber: 0
+    sugar: 3
+    protein: 0
+    cholesterol: 0
+    sodium: 20
+
+hydration:
+  - water: TBD ml
+  - apple_cider_vinegar: 5  # calories, negligible
+
+blood_pressure:
+  morning: TBD
+  evening: TBD
+
+notes: |
+  - Late start today.
+  - Strength training planned for 8:00 AM.
+  - Tracking walks by duration and count.
+  - Coffee consumed with oat creamer.
+  - Mini-snacks and pastries from yesterday included for reference.
+  - Using compact format for easier long-term tracking.
