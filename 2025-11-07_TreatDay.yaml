@@ -1,38 +1,43 @@
 date: 2025-11-07
-day_type: Weekend Treat Day
-highlights:
-  total_steps: 10375
-  total_calories: 2585
-  strength_sessions: 3
-  treats: 6 Mini chocolate treats
-  blood_pressure: 120/69, pulse 94, hypertension medium
+label: Fun Treat Day
+estimated_calories: 2780
 
 activity:
+  total_walks:
+    duration: 70min
+    steps: 10350
   strength_training:
-    - sessions: 3
-      times: ["12:00", "16:00", "20:08"]
-      duration_total: 45 min
-      notes: Energetic, typical fatigue, heart rate elevation after sessions
-  walks:
-    total_steps: 10375
-    sessions: 10
-    notes: All walks combined; individual sessions ranged 5–40 min
+    - session: 12:00
+      exercises: biceps 3x10, lateral 3x10
+      feeling: energetic, slight fatigue
+    - session: 16:00
+      exercises: unspecified, 30min
+      feeling: good
+    - session: 20:08
+      exercises: unspecified, 15min
+      feeling: energetic
 
-meals_snacks:
-  lunch: Chinese restaurant meal (rice, chow mein, chicken balls, unsweetened)
-  snack_1: Half turkey sandwich (white bread, butter, mayo)
-  snack_2: Chicken strips (1–2 strips)
-  treats: 6 Mini chocolate treats
-  hydration:
-    notes: Coffee (black), coffee with 1 tbsp hazelnut creamer
+meals:
+  breakfast: unspecified
+  lunch: Chow Mein & Sweet & Sour Chicken Balls (high calorie, high sodium)
+  snacks:
+    - Turkey Sandwich (half, white bread, butter, mayo)
+    - Coffee, black
+    - Mini Chocolate Teens, 6 pieces
+  dinner: Chicken strips, 2-4 pieces
 
-total_nutrition_estimate:
-  calories: 2585
-  protein: 76
-  carbs: 298.5
-  fat: 120.75
-  sodium: 3423
+hydration:
+  water: sufficient
+  coffee: 2x
 
-notes:
-  - Walks, strength sessions, meals, snacks, treats, and hydration summarized
-  - Total steps and total nutrition included for easier long-term tracking
+blood_pressure:
+  evening:
+    systolic: 120
+    diastolic: 69
+    pulse: 94
+    hypertension: medium
+
+comparison:
+  reference_day: 2025-10-29
+  steps_difference: +2300
+  calories_difference: +180
