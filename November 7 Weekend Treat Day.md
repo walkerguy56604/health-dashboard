@@ -1,5 +1,14 @@
 # November 7, 2025 — Weekend Treat Day
 
+## Daily Nutrition Summary (Estimates)
+- **Calories:** ~2,400–2,600 kcal  
+- **Fat:** ~120–130 g  
+- **Carbs:** ~250–270 g  
+- **Protein:** ~50–60 g  
+- **Sodium:** ~1,800–2,000 mg  
+
+---
+
 ## Activity & Steps
 
 | Time           | Activity             | Duration | Steps | Notes |
@@ -48,6 +57,12 @@
 ```yaml
 date: 2025-11-07
 label: Weekend Treat Day
+daily_nutrition_estimate:
+  calories: 2500
+  fat_g: 125
+  carbs_g: 260
+  protein_g: 55
+  sodium_mg: 1900
 activity:
   - type: walk
     time: morning
