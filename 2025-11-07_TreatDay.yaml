@@ -1,91 +1,99 @@
 date: 2025-11-07
-label: "Weekend Treat Day"
-total_steps: 10200  # accumulated steps from all walks
-strength_training:
-  sessions:
-    - start: "12:00"
-      end: "12:29"
+label: Weekend Treat Day
+summary: >
+  Full day of activity, meals, snacks, and hydration.
+  Steps merged from all walks; strength training completed; weekend treats included.
+  
+activity:
+  steps_total: 29500  # approximate cumulative steps from all walks
+  walks:
+    - duration: 40min
+      steps: 4000
+      note: Walk and store visit
+    - duration: 5min
+      steps: 300
+      note: Coffee stop
+    - duration: 5min
+      steps: 500
+      note: Evening walks, merged
+  strength_training:
+    - session: Morning
+      start: 11:48
+      end: 12:29
       exercises:
-        - name: "Lateral Raises"
-          sets: 3
-          reps: 10
-        - name: "Biceps Curls"
-          sets: 3
-          reps: 10
-    - start: "16:00"
-      end: "16:15"
+        - biceps: 3 sets x 10 reps
+        - lateral_raises: 3 sets x 10 reps
+      feeling: energetic, slight fatigue
+    - session: Evening
+      start: 20:08
+      end: 20:23
       exercises:
-        - name: "Biceps Curls"
-          sets: 3
-          reps: 10
-        - name: "Lateral Raises"
-          sets: 3
-          reps: 10
-    - start: "20:08"
-      end: "20:23"
-      exercises:
-        - name: "Mixed Routine"
-          duration: 15  # minutes
-walks:
-  - duration_total: 85  # total minutes from all walks
-  - steps_total: 10200
+        - biceps: 3 sets x 10 reps
+        - lateral_raises: 3 sets x 10 reps
+      feeling: energetic, slight fatigue
+  additional_walks:
+    - duration: 5min
+      time: 20:25-20:30
+      note: Evening cooldown walk
+
 meals:
   breakfast:
-    items:
-      - name: "Carrot"
-        portion: "partial"
-      - name: "Apple"
-        portion: "1"
-  lunch:
-    items:
-      - name: "Turkey sandwich"
-        portion: "half"
-        notes: "White bread, butter, mayonnaise"
-  dinner:
-    items:
-      - name: "Chinese food (restaurant)"
-        items:
-          - "Rice"
-          - "Chow Mein"
-          - "Sweet & Sour Chicken Balls (unsweetened)"
-        notes: "High sodium, estimated calories"
-snacks:
-  - name: "Mini Chocolate Teens"
-    quantity: 6
-    nutrition:
-      calories: 240
-      fat: 13
-      saturated: 8
-      trans: 0.3
-      carbs: 27
-      fiber: 2
-      sugar: 8
-      protein: 4
-      cholesterol: 30
-      sodium: 230
-  - name: "Chicken strips"
-    quantity: 2  # estimated portion eaten
-    nutrition:
-      calories: 120
-      fat: 2
-      saturated: 0.5
-      trans: 0
-      carbs: 4
-      fiber: 0
-      sugar: 0
-      protein: 22
-      cholesterol: 45
-      sodium: 380
+    - item: Coffee
+      notes: Black
+    - item: Mini chocolate treats
+      quantity: 6
+      nutrition_per_unit:
+        calories: 240
+        fat: 13
+        saturated_fat: 8
+        carbs: 27
+        fiber: 2
+        sugar: 8
+        protein: 4
+        cholesterol: 30
+        sodium: 230
+  snack:
+    - item: Carrot & apple
+      notes: partial carrot
+    - item: Turkey sandwich
+      portion: half
+      notes: white bread, butter, mayonnaise
+    - item: Coffee with hazelnut creamer
+  lunch_dinner_estimate:
+    - item: Chinese restaurant meal
+      components:
+        - sweet_sour_chicken_balls: unsweetened
+        - rice
+        - chow_mein
+      notes: high calorie, high sodium, estimates only
+  snack_evening:
+    - item: Chicken strips
+      portion: 2 out of 4 strips
+      nutrition_per_100g:
+        calories: 240
+        fat: 13
+        saturated_fat: 8
+        trans_fat: 0.3
+        carbs: 27
+        fiber: 2
+        sugar: 8
+        protein: 4
+        cholesterol: 30
+        sodium: 230
+
 hydration:
-  water: "adequate"
+  notes: Adequate water intake throughout day
+
 blood_pressure:
-  - time: "evening"
+  morning: null
+  evening:
     systolic: 120
     diastolic: 69
-    pulse: 94
-    hypertension_level: "medium"
+    heart_rate: 94
+    hypertension: medium
+
 notes:
-  - "Fun treat day with weekend snacks."
-  - "Total steps ~10,200."
-  - "Multiple strength sessions and walks."
-  - "Chinese food dinner was high sodium; portions estimated."
+  - Total steps approximate, merged from all walks
+  - Weekend treat day: higher calorie/snack intake included
+  - Strength training completed: morning and evening sessions
+  - Meals mostly estimated where restaurant nutrition unknown
