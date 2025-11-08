@@ -1,36 +1,23 @@
 date: 2025-11-08
 day: Saturday
-summary:
-  total_walks_count: 3
-  total_walks_steps: 4500
-  strength_training_status: not_started
-  mini_snacks_total_count: 6
-  mini_snacks_total_calories: 1440
-  pastries_total_count: 0
-  pastries_total_calories: 0
-  nutrition_calories_total: 25
-  hydration_total_ml: 515  # sum of water + vinegar + coffee
-  estimated_total_steps_today: 0  # placeholder, will accumulate throughout the day
-
 activities:
   walks:
-    - duration_minutes: 5
+    "5_min": 
+      count: 3
+      total_steps: 4500  # estimate: 1500 steps each
+    "10_min": 
       count: 1
-      steps: 1500
-    - duration_minutes: 5
-      count: 1
-      steps: 1500
-    - duration_minutes: 5
-      count: 1
-      steps: 1500
+      total_steps: 2500  # estimate
+    "30-60_min": 
+      count: 0
+      total_steps: 0
   strength_training:
-    - status: not_started
-      duration_minutes: 0
-
+    sessions: 0
+    duration_min: 0
 nutrition:
-  breakfast:
-    - item: silk hazelnut latte oat creamer
-      amount_ml: 15
+  breakfast: 
+    - item: "Silk Hazelnut Latte Oat Creamer"
+      quantity: 15ml
       calories: 25
       fat: 1
       saturated: 0.1
@@ -41,17 +28,30 @@ nutrition:
       protein: 0
       cholesterol: 0
       sodium: 20
-  snacks:
-    - mini_snacks_total_count: 6
-      mini_snacks_total_calories: 1440
+  mini_snacks:
+    placeholder: true
   pastries:
-    - pastries_total_count: 0
-      pastries_total_calories: 0
-
+    placeholder: true
 hydration:
-  total_ml: 515  # sum of water + vinegar + coffee
-
+  water_ml: 250
+  apple_cider_vinegar_ml: 15
+blood_pressure:
+  morning:
+    systolic: null
+    diastolic: null
+    heart_rate: null
+  evening:
+    systolic: null
+    diastolic: null
+    heart_rate: null
+glucose:
+  fasting: null
 notes: |
-  Placeholder added for estimated_total_steps_today.
-  Strength training not yet started.
-  Additional walks, nutrition, or hydration can be logged throughout the day.
+  - Rolling totals and historical comparisons are active.
+  - Placeholders added for mini-snacks and pastries from yesterday.
+  - Strength training and additional walks will be updated as completed.
+rolling_totals:
+  total_steps_today: 7000  # cumulative of above
+  total_calories_today: 25
+  total_water_ml: 250
+  total_walk_count: 4  # sum of all walks
