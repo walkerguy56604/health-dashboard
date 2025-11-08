@@ -1,47 +1,118 @@
+date: 2025-11-08
+day: Saturday
+activity:
+  walks:
+    "5_minute": 
+      count: 3
+      total_steps: 4500
+    "10_minute":
+      count: 2
+      total_steps: 4000
+    "30-60_minute":
+      count: 1
+      total_steps: 6000
+  strength_training:
+    sessions:
+      - start_time: 07:00
+        duration_minutes: 14
+        notes: "Round 1 complete"
+      - start_time: null
+        duration_minutes: 4
+        notes: "Mini session ongoing"
+
 nutrition:
   breakfast:
-    - item: "Oatmeal, 1/3 cup"
+    - item: "Oatmeal"
+      quantity: "1/3 cup"
       calories: 140
       fat_g: 2.5
-      saturated_g: 0.5
-      trans_g: 0
       carbs_g: 26
       fiber_g: 4
-      soluble_fiber_g: 2
-      insoluble_fiber_g: 2
       sugar_g: 0
       protein_g: 6
-      cholesterol_mg: 0
-      sodium_mg: 0
-    - item: "Peanut Butter, 1 tbsp"
+    - item: "Honey"
+      quantity: "1 tbsp (20g)"
+      calories: 60
+      fat_g: 0
+      carbs_g: 16
+      sugar_g: 16
+      protein_g: 0.1
+    - item: "Peanut Butter"
+      quantity: "1 tbsp (15g)"
       calories: 90
       fat_g: 8
-      saturated_g: 2
-      trans_g: 0
       carbs_g: 3
       fiber_g: 1
       sugar_g: 1
       protein_g: 3
-      cholesterol_mg: 0
-      sodium_mg: 60
   snacks:
-    - item: "Carrot, 1"
+    - item: "Carrot"
+      quantity: 1
       calories: 25
-      notes: "Snack"
-    - item: "Leftover Chinese food"
-      calories: null
-      notes: "Chicken chow mein, rice, peas, no MSG, unknown calories"
+      fat_g: 0
+      carbs_g: 6
+      fiber_g: 2
+      sugar_g: 3
+      protein_g: 1
   mini_snacks: []
   pastries:
-    - item: "Mini Chocolate Teen, 1 piece"
+    - item: "Mini Chocolate Teen"
+      quantity: 1 piece
       calories: 120
       fat_g: 6.5
-      saturated_g: 4
-      trans_g: 0.15
       carbs_g: 13.5
       fiber_g: 1
       sugar_g: 4
       protein_g: 2
-      cholesterol_mg: 15
-      sodium_mg: 115
-  other: []
+  other:
+    - item: "Leftover Chinese food"
+      quantity: "Unknown"
+      calories: null
+      notes: "Rice, chicken chow mein, peas, etc. No MSG"
+
+hydration:
+  water_ml: null
+  coffee_ml: null
+  other_drinks: 
+    - item: "Apple Cider Vinegar + water"
+      quantity: null
+
+blood_pressure:
+  morning: 
+    systolic: null
+    diastolic: null
+    pulse: null
+    notes: ""
+  evening: 
+    systolic: null
+    diastolic: null
+    pulse: null
+    notes: ""
+
+glucose: []
+
+cpap:
+  usage_minutes: null
+  notes: "Placeholder until more data available"
+
+notes: |
+  # Observations, comments, or extra info
+  Wonderful news: family member expecting a baby.
+  Walks and strength training ongoing throughout the day.
+
+rolling_totals:
+  steps: 14500
+  strength_minutes: 18
+  calories: 435  # sum of all known items (oatmeal 140 + honey 60 + peanut butter 90 + carrot 25 + mini chocolate teen 120)
+  estimated_calories_unknown: null  # leftover Chinese food placeholder
+
+historical_reference:
+  2025-11-07:
+    mini_snacks:
+      count: 6
+      total_calories: 1440
+    pastries:
+      count: 0
+      total_calories: 0
+    total_steps: 10000
+    strength_minutes: 30
