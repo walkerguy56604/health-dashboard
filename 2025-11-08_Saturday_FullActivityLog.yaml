@@ -2,47 +2,42 @@ date: 2025-11-08
 day: Saturday
 activity:
   walks:
-    "5_minute": 
+    5_minute:
       count: 3
       total_steps: 4500
-    "10_minute":
+    10_minute:
       count: 2
       total_steps: 4000
-    "30-60_minute":
+    30-60_minute:
       count: 1
       total_steps: 6000
   strength_training:
     sessions:
       - start_time: 07:00
         duration_minutes: 0
-        notes: ""
-
+        notes: ''
 nutrition:
   breakfast: []
   snacks: []
   mini_snacks: []
   pastries: []
   other: []
-
 hydration:
   water_ml: 0
   coffee_ml: 0
   other_drinks: []
-
 blood_pressure:
-  morning: 
+  morning:
     systolic: null
     diastolic: null
     pulse: null
-    notes: ""
-  evening: 
+    notes: ''
+  evening:
     systolic: null
     diastolic: null
     pulse: null
-    notes: ""
-
+    notes: ''
 glucose: []
-
 notes: |
   # Observations, comments, or extra info
 
@@ -55,9 +50,9 @@ historical_reference:
   2025-11-07:
     mini_snacks:
       count: 6
-      total_calories: 1440  # example, 6 x 240 calories
+      total_calories: 1440
     pastries:
       count: 0
       total_calories: 0
-    total_steps: 10000  # yesterday's total steps
+    total_steps: 10000
     strength_minutes: 30
