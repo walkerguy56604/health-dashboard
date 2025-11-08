@@ -1,75 +1,5 @@
 date: 2025-11-08
 day: Saturday
-summary_type: FullActivityLog
-
-historical_reference:
-  2025-11-07:
-    walks_total_steps: 10000
-    mini_snacks_total: 6
-    pastries_total_calories: 1440
-    strength_training: completed
-    notes: |
-      - Full activity logged as "Weekend Treat Day"
-      - Total steps include all walks throughout the day
-      - Snacks and pastries are summed for reference
-
-activity:
-  strength_training:
-    - status: not_started
-      planned_time: "8:00 AM"
-      duration: TBD
-  walks:
-    - duration: 5 min
-      count: 3
-      total_steps: 4500  # estimate ~1500 steps per 5-min walk
-    - duration: 10 min
-      count: 0
-      total_steps: 0
-    - duration: 30-60 min
-      count: 0
-      total_steps: 0
-
-nutrition:
-  - item: silk hazelnut latte oat creamer
-    serving: 1 tbsp (15ml)
-    calories: 25
-    fat: 1
-    sat_fat: 0.1
-    trans: 0
-    carbs: 3
-    fiber: 0
-    sugar: 3
-    protein: 0
-    cholesterol: 0
-    sodium: 20
-
-  mini_snacks:
-    - count: 6  # placeholder based on yesterday
-      calories_total: 1440  # placeholder estimate
-
-  pastries:
-    - count: 0
-      calories_total: 0  # update as consumed
-
-hydration:
-  - water: 250 ml  # example for current intake
-  - apple_cider_vinegar: 15 ml  # calories negligible
-  - coffee: 250 ml
-
-blood_pressure:
-  morning: TBD
-  evening: TBD
-
-glucose:
-  - time: TBD
-    value: TBD
-
-notes: |
-  - Late start today.
-  - Logging morning walks and current hydration.
-  - Placeholders left for blood pressure and glucose.
-  - Strength training not yet started.
-
 summary:
   total_walks_count: 3
   total_walks_steps: 4500
@@ -80,3 +10,48 @@ summary:
   pastries_total_calories: 0
   nutrition_calories_total: 25
   hydration_total_ml: 515  # sum of water + vinegar + coffee
+  estimated_total_steps_today: 0  # placeholder, will accumulate throughout the day
+
+activities:
+  walks:
+    - duration_minutes: 5
+      count: 1
+      steps: 1500
+    - duration_minutes: 5
+      count: 1
+      steps: 1500
+    - duration_minutes: 5
+      count: 1
+      steps: 1500
+  strength_training:
+    - status: not_started
+      duration_minutes: 0
+
+nutrition:
+  breakfast:
+    - item: silk hazelnut latte oat creamer
+      amount_ml: 15
+      calories: 25
+      fat: 1
+      saturated: 0.1
+      trans: 0
+      carbs: 3
+      fiber: 0
+      sugar: 3
+      protein: 0
+      cholesterol: 0
+      sodium: 20
+  snacks:
+    - mini_snacks_total_count: 6
+      mini_snacks_total_calories: 1440
+  pastries:
+    - pastries_total_count: 0
+      pastries_total_calories: 0
+
+hydration:
+  total_ml: 515  # sum of water + vinegar + coffee
+
+notes: |
+  Placeholder added for estimated_total_steps_today.
+  Strength training not yet started.
+  Additional walks, nutrition, or hydration can be logged throughout the day.
