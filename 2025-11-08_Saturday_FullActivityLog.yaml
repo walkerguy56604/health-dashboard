@@ -20,8 +20,8 @@ activity:
       duration: TBD
   walks:
     - duration: 5 min
-      count: 1        # placeholder for first walk done
-      total_steps: 0  # update as you track steps
+      count: 1
+      total_steps: 0
     - duration: 10 min
       count: 0
       total_steps: 0
@@ -43,6 +43,13 @@ nutrition:
     cholesterol: 0
     sodium: 20
 
+  mini_snacks:
+    - count: 0        # placeholder
+      calories_total: 0
+  pastries:
+    - count: 0        # placeholder
+      calories_total: 0
+
 hydration:
   - water: TBD ml
   - apple_cider_vinegar: 5  # calories, negligible
@@ -56,5 +63,16 @@ notes: |
   - Strength training planned for 8:00 AM.
   - Tracking walks by duration and count.
   - Coffee consumed with oat creamer.
-  - Mini-snacks and pastries from yesterday included for reference.
+  - Mini-snacks and pastries placeholders added for today.
   - Using compact format for easier long-term tracking.
+
+summary:
+  total_walks_count: 1
+  total_walks_steps: 0
+  strength_training_status: not_started
+  mini_snacks_total_count: 0
+  mini_snacks_total_calories: 0
+  pastries_total_count: 0
+  pastries_total_calories: 0
+  nutrition_calories_total: 25
+  hydration_total_ml: TBD
