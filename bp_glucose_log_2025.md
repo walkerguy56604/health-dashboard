@@ -1,41 +1,41 @@
-# Blood Pressure Dashboard – Spikes & IHBs
-
-## Key
-- **IHB** = Irregular Heart Beat
-- **High** = Spike above usual range (Systolic ≥ 130 mmHg or Diastolic ≥ 85 mmHg)
-- Heart Rate in bpm
-
----
-
-## August – September 2024
-
-| Date       | Systolic | Diastolic | Heart Rate | Notes / Type |
-|------------|---------|-----------|------------|--------------|
-| 01-Aug-24  | 105     | 69        | 75         | IHB          |
-| 12-Aug-24  | 112     | 65        | 81         | IHB          |
-| 12-Aug-24  | 109     | 70        | 80         | IHB          |
-| 15-Aug-24  | 90      | 60        | 80         | IHB          |
-| 26-Aug-24  | 126     | 61        | 75         | IHB          |
-| 16-Sep-24  | 110     | 61        | 70         | IHB          |
-| 20-Sep-24  | 114     | 66        | 83         | IHB          |
-| 17-Sep-24  | 142     | 68        | 83         | High         |
-| 28-Sep-24  | 167     | 74        | 79         | High         |
-| 29-Sep-24  | 138     | 73        | 80         | High         |
-| 29-Sep-24  | 140     | 69        | 79         | High         |
-| 07-Sep-24  | 153     | 73        | 91         | High         |
-
----
-
-## Notes / Observations
-- IHBs are generally **lower in blood pressure**, but still important to track.
-- Spikes (High) can be used to calculate **monthly or weekly trends** later.
-- Can add **optional ASCII mini-graphs** or charts for Systolic/Diastolic trends.
-- Ready for future **October–November 2025 entries**.
-
----
-
-## Next Steps (Optional)
-1. Add more historical spikes from **June–July 2024**.
-2. Include **October–November 2025** high BP readings.
-3. Generate **trend charts** (weekly/monthly averages) using Markdown + ASCII.
-4. Push to GitHub + optionally prepare **DeepNote CSV** for advanced plotting.
+Date       | Systolic  | Diastolic | Notes
+-----------|-----------|-----------|-----------------------------
+Jun 2      | 143**     | 70        | Spike
+Jun 2      | 137       | 73        | 
+Jul 15     | 133       | 69        | 
+Jul 17     | 103       | 45        | IHB
+Jul 20     | 117       | 57        | IHB
+Aug 1      | 105       | 69        | IHB
+Aug 12     | 112       | 65        | IHB
+Aug 12     | 109       | 70        | IHB
+Aug 15     | 90        | 60        | IHB
+Aug 26     | 126       | 61        | IHB
+Aug 11     | 140**     | 71        | Spike
+Aug 22     | 145**     | 65        | Spike
+Aug 29     | 139**     | 72        | Spike
+Sep 16     | 110       | 61        | IHB
+Sep 20     | 114       | 66        | IHB
+Sep 17     | 142**     | 68        | Spike
+Sep 28     | 167**     | 74        | Spike
+Sep 29     | 138**     | 73        | Spike
+Sep 29     | 140**     | 69        | Spike
+Oct 10     | 132**     | 72        | Spike
+Oct 10     | 132**     | 72        | Spike
+Oct 26     | 133**     | 71        | Spike
+Nov 2      | 131**     | 65        | Spike
+Nov 3      | 116       | 61        | Glucose 5.5%
+Nov 5      | 124       | 63        | Low
+Nov 6      | 124       | 68        | Low/Medium
+Nov 7      | 124       | 67        | Medium
+Nov 7      | 119       | 66        | Low
+Nov 7      | 120       | 69        | Medium
+Nov 9      | 133**     | 66        | Medium
+Nov 9      | 122       | 71        | Low
+Nov 9      | 6.5       | -         | Glucose
+Nov 10     | 128       | 70        | Low
+Nov 10     | 132**     | 72        | Medium
+Nov 12     | 126       | 68        | Low
+Nov 12     | 7.7       | -         | Glucose
+Nov 14     | 121       | 65        | Low
+Nov 14     | 122       | 72        | Low
+Nov 14     | 7.0       | -         | Glucose
